@@ -1,0 +1,24987 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"al" = (
+/obj/structure/stairs/perspective{
+	dir = 8;
+	icon_state = "p_stair_sn_full_cap"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"an" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"at" = (
+/obj/structure/machinery/door/airlock/almayer/maint{
+	req_access_txt = "200";
+	req_one_access = null
+	},
+/obj/structure/machinery/door/poddoor/almayer/open{
+	dir = 4;
+	id = royce_hangarlockdown;
+	name = "Hangar Lockdown";
+	use_power = 0
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"au" = (
+/obj/structure/machinery/telecomms/server/presets/common,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"aw" = (
+/obj/structure/machinery/power/port_gen/pacman,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/space)
+"aD" = (
+/obj/structure/machinery/door/poddoor/almayer/open{
+	dir = 4;
+	id = royce_hangarlockdown;
+	name = "Hangar Lockdown";
+	use_power = 0
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"aG" = (
+/obj/structure/machinery/door/poddoor/shutters/almayer{
+	dir = 4;
+	id = "royce_hangarstore";
+	name = "\improper Hangar Store Shutters"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"aI" = (
+/obj/structure/bed/chair/comfy/bravo,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"aK" = (
+/obj/structure/surface/table/almayer,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"aN" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/item/device/binoculars,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"aW" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/computer/cameras{
+	network = list("omega")
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"aX" = (
+/obj/effect/decal/cleanable/blood/oil,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"aY" = (
+/obj/structure/machinery/door/airlock/almayer/security{
+	dir = 2;
+	name = "Advanced Interrogation"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"bg" = (
+/obj/structure/stairs/perspective{
+	dir = 8;
+	icon_state = "p_stair_full"
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"bs" = (
+/obj/structure/surface/table/almayer,
+/obj/item/clothing/suit/storage/hazardvest/yellow,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"bw" = (
+/obj/vehicle/powerloader/ft{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"by" = (
+/obj/structure/machinery/computer/cameras/wooden_tv/ot{
+	pixel_y = 4
+	},
+/obj/structure/surface/table/almayer,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"bA" = (
+/obj/structure/reagent_dispensers/ammoniatank{
+	anchored = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"bE" = (
+/obj/structure/bed/chair/office/light,
+/turf/open/floor/corsat{
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"bF" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out";
+	layer = 2.5
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 10
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"bJ" = (
+/obj/structure/closet/toolcloset,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"bS" = (
+/obj/structure/window/framed/corsat/indestructible/security,
+/turf/open/floor/plating,
+/area/adminlevel/ert_station/weyland_station)
+"bY" = (
+/obj/structure/largecrate/random/case/small,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/space)
+"cd" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/secdoor/glass/reinforced{
+	dir = 8;
+	name = "Brig"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"cg" = (
+/turf/open/floor/corsat{
+	icon_state = "darkgreencorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"cv" = (
+/obj/structure/largecrate/random/case/small,
+/turf/open/floor/corsat,
+/area/adminlevel/ert_station/weyland_station)
+"cz" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"cL" = (
+/turf/open/floor/corsat{
+	icon_state = "browncorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"cQ" = (
+/obj/structure/bed{
+	icon_state = "abed"
+	},
+/obj/structure/machinery/light/small/built{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"cS" = (
+/turf/open/floor/almayer_hull{
+	dir = 5;
+	icon_state = "outerhull_dir"
+	},
+/area/space)
+"cV" = (
+/obj/structure/largecrate/random/barrel/blue,
+/turf/open/floor/corsat,
+/area/adminlevel/ert_station/weyland_station)
+"cW" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dk" = (
+/obj/structure/bed/chair/comfy,
+/obj/structure/window/reinforced/ultra,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dq" = (
+/obj/structure/machinery/cm_vending/sorted/tech/circuits,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dr" = (
+/obj/structure/largecrate/random/barrel/blue,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dv" = (
+/obj/structure/machinery/power/fusion_engine,
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dy" = (
+/obj/structure/machinery/cm_vending/sorted/tech/comp_storage,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dD" = (
+/obj/structure/reagent_dispensers/watertank,
+/obj/structure/sign/safety/water{
+	pixel_x = 8;
+	pixel_y = 32
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dF" = (
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_22";
+	pixel_x = -13
+	},
+/turf/open/floor/corsat{
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dH" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dJ" = (
+/obj/structure/machinery/cm_vending/sorted/cargo_guns/antag_guns{
+	hacked = 1;
+	name = "\improper Response Team Automated Guns Rack";
+	use_power = 0;
+	use_snowflake_points = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dL" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/structure/machinery/computer/cameras/almayer_network/vehicle{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dS" = (
+/obj/structure/machinery/light{
+	dir = 8;
+	invisibility = 101
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dW" = (
+/turf/open/floor/corsat{
+	icon_state = "redcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dX" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_18";
+	pixel_y = 7
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dY" = (
+/obj/structure/platform{
+	dir = 4
+	},
+/obj/structure/platform{
+	dir = 8
+	},
+/obj/structure/stairs,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"dZ" = (
+/obj/structure/bed/chair/comfy/bravo,
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"eg" = (
+/obj/structure/reagent_dispensers/fueltank/custom,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"eh" = (
+/obj/structure/machinery/medical_pod/bodyscanner{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"el" = (
+/obj/structure/surface/table/almayer,
+/obj/item/storage/firstaid/fire{
+	pixel_x = -6
+	},
+/obj/item/tool/hand_labeler{
+	pixel_x = 7
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"eO" = (
+/obj/structure/sign/safety/flightcontrol,
+/turf/closed/wall/r_wall/biodome,
+/area/adminlevel/ert_station/weyland_station)
+"eR" = (
+/obj/structure/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "arrow_north"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"eU" = (
+/obj/structure/machinery/cm_vending/clothing/antag{
+	name = "\improper Response Team Automated Equipment Rack"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"fa" = (
+/obj/structure/machinery/power/terminal,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"fb" = (
+/obj/structure/closet/secure_closet/engineering_personal,
+/obj/item/clothing/suit/storage/hazardvest/yellow,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"fe" = (
+/obj/structure/machinery/recharge_station{
+	layer = 2.9
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"fj" = (
+/obj/structure/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"fk" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreencorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"fx" = (
+/obj/structure/prop/almayer/missile_tube{
+	icon_state = "missiletubesouth"
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/adminlevel/ert_station/weyland_station)
+"fL" = (
+/obj/structure/machinery/light,
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"fO" = (
+/obj/structure/platform{
+	dir = 4;
+	layer = 2.7
+	},
+/obj/structure/stairs/perspective{
+	dir = 10;
+	icon_state = "p_stair_full"
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"fY" = (
+/obj/structure/machinery/recharge_station,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gb" = (
+/obj/structure/sign/poster/safety,
+/turf/closed/wall/r_wall/biodome,
+/area/adminlevel/ert_station/weyland_station)
+"gd" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ge" = (
+/obj/structure/closet/firecloset/full,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gf" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gh" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gq" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gz" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/secdoor/reinforced{
+	name = "Infirmary"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gG" = (
+/obj/structure/surface/table/almayer,
+/obj/item/reagent_container/glass/bucket{
+	pixel_x = 6;
+	pixel_y = 8
+	},
+/obj/item/reagent_container/glass/bucket{
+	pixel_x = -6;
+	pixel_y = 8
+	},
+/obj/item/reagent_container/glass/bucket{
+	pixel_x = -6;
+	pixel_y = -2
+	},
+/obj/item/reagent_container/glass/bucket{
+	pixel_x = 6;
+	pixel_y = -2
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gL" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gM" = (
+/turf/open/floor/corsat{
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"gW" = (
+/obj/structure/largecrate/random/barrel/green,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/space)
+"gY" = (
+/obj/structure/reagent_dispensers/pacidtank{
+	anchored = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hc" = (
+/obj/structure/prop/almayer/hangar_stencil,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hd" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 6;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hh" = (
+/obj/structure/surface/table/reinforced/prison,
+/obj/item/reagent_container/spray/cleaner{
+	desc = "Someone has crossed out the Space from Space Cleaner and written in Surgery. 'Do not remove under punishment of death!!!' is scrawled on the back.";
+	name = "Surgery Cleaner"
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hj" = (
+/obj/structure/flora/pottedplant,
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hl" = (
+/obj/structure/bed/chair/comfy/alpha{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hm" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hn" = (
+/obj/structure/prop/almayer/missile_tube,
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hv" = (
+/turf/open/floor/corsat{
+	icon_state = "bluegreycorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hA" = (
+/obj/structure/platform{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hG" = (
+/obj/structure/platform_decoration,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hI" = (
+/obj/structure/window/framed/corsat/security,
+/turf/open/floor/plating,
+/area/adminlevel/ert_station/weyland_station)
+"hM" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 9
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hR" = (
+/obj/structure/closet/medical_wall{
+	pixel_y = -30
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hT" = (
+/obj/structure/bed/chair/comfy/bravo,
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"hU" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/engidoor/glass/colony{
+	name = "Shuttle Workshop"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"id" = (
+/obj/structure/surface/table/almayer,
+/obj/item/reagent_container/food/condiment/hotsauce/franks,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ih" = (
+/obj/structure/surface/table/almayer,
+/obj/item/device/taperecorder,
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ii" = (
+/obj/structure/prop/invuln/lattice_prop{
+	icon_state = "lattice12";
+	pixel_y = 16
+	},
+/turf/open/space/basic,
+/area/space)
+"ik" = (
+/obj/structure/machinery/vending/cigarette,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"iq" = (
+/obj/structure/machinery/autolathe,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"it" = (
+/obj/structure/prop/invuln/lattice_prop{
+	icon_state = "lattice12";
+	pixel_y = -16
+	},
+/turf/open/space/basic,
+/area/space)
+"iu" = (
+/obj/structure/closet/secure_closet/freezer/industry,
+/obj/item/reagent_container/glass/beaker/silver,
+/obj/effect/decal/warning_stripes{
+	icon_state = "W";
+	layer = 2.5
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"iz" = (
+/obj/structure/filingcabinet,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"iD" = (
+/obj/structure/bed/chair/comfy/black{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"iI" = (
+/obj/structure/machinery/door/airlock/almayer/maint{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"iM" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "whitecorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"iX" = (
+/obj/structure/machinery/door/airlock/almayer/secure/reinforced{
+	dir = 2;
+	name = "Telecommunications";
+	req_access_txt = "6"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"iZ" = (
+/obj/structure/closet/hydrant{
+	pixel_y = -30
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jl" = (
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jp" = (
+/obj/structure/reagent_dispensers/fueltank,
+/obj/structure/sign/safety/fire_haz{
+	pixel_x = 32
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jr" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"js" = (
+/turf/open/space/basic,
+/area/adminlevel/ert_station/weyland_station)
+"jv" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/generic{
+	name = "\improper Briefing Room"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jx" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/item/weapon/gun/smg/m39/elite{
+	pixel_y = 9
+	},
+/obj/item/weapon/gun/smg/m39/elite,
+/obj/item/weapon/gun/smg/m39/elite{
+	pixel_y = -8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jG" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/computer/communications{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jH" = (
+/obj/structure/machinery/portable_atmospherics/powered/pump,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jI" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/standard/manifold/fourway/hidden/green,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jM" = (
+/obj/structure/reagent_dispensers/fueltank,
+/obj/structure/sign/safety/fire_haz{
+	pixel_x = 32
+	},
+/obj/item/tool/weldpack,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jN" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jO" = (
+/obj/structure/machinery/cm_vending/sorted/marine_food{
+	density = 0;
+	pixel_y = 16
+	},
+/obj/structure/machinery/cm_vending/sorted/marine_food{
+	density = 0;
+	pixel_y = 16
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jS" = (
+/obj/structure/machinery/power/terminal{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"jU" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"kf" = (
+/turf/open/floor/corsat{
+	icon_state = "retrosquareslight"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ko" = (
+/obj/structure/largecrate/random/case/double,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ks" = (
+/obj/structure/machinery/power/fusion_engine,
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/obj/structure/pipes/standard/simple/visible/yellow,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"kt" = (
+/obj/structure/prop/almayer/hangar_stencil{
+	icon_state = "dropship2"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"kw" = (
+/obj/structure/bed/chair/comfy/bravo,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"kC" = (
+/obj/structure/machinery/cm_vending/sorted/tech/electronics_storage/antag,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"kE" = (
+/obj/structure/window/framed/corsat/security,
+/obj/structure/machinery/door/poddoor/shutters/almayer/open{
+	dir = 8;
+	id = "royce_interrogation";
+	name = "\improper Privacy Shutters"
+	},
+/turf/open/floor/plating,
+/area/adminlevel/ert_station/weyland_station)
+"kM" = (
+/obj/structure/closet/crate/ammo/alt/flame,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"kN" = (
+/obj/structure/machinery/disposal,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"kV" = (
+/turf/open/floor/corsat{
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"kW" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/window/reinforced,
+/obj/item/folder/yellow,
+/obj/item/tool/pen,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lm" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/obj/structure/pipes/standard/simple/visible/universal{
+	dir = 8;
+	pixel_x = 16
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lu" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/machinery/light/double{
+	dir = 4;
+	pixel_x = 10;
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lw" = (
+/obj/structure/surface/rack,
+/obj/effect/spawner/random/toolbox,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lz" = (
+/turf/open/floor/corsat{
+	icon_state = "yellowcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lA" = (
+/obj/structure/surface/table/almayer,
+/obj/effect/spawner/random/technology_scanner,
+/obj/item/tool/crowbar,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lB" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/item/ammo_box/magazine/m39/ap{
+	pixel_y = 8
+	},
+/obj/item/ammo_box/magazine/ap,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lC" = (
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lH" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lI" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lL" = (
+/obj/structure/surface/table/almayer,
+/obj/item/paper_bin/uscm,
+/obj/item/tool/pen,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lP" = (
+/obj/structure/machinery/autolathe,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lQ" = (
+/turf/open/floor/almayer_hull{
+	dir = 10;
+	icon_state = "outerhull_dir"
+	},
+/area/space)
+"lX" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"lY" = (
+/obj/structure/machinery/photocopier,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mc" = (
+/obj/structure/machinery/cm_vending/sorted/tech/comp_storage,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"me" = (
+/obj/structure/machinery/door/airlock/almayer/generic{
+	id = "Alpha_2";
+	name = "\improper Bathroom"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mj" = (
+/obj/structure/machinery/door/airlock/almayer/security/glass/reinforced{
+	dir = 1;
+	name = "\improper Infirmary"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mn" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/machinery/light{
+	dir = 4;
+	invisibility = 101
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mp" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "browncorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mu" = (
+/mob/living/simple_animal/mouse/brown,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mv" = (
+/obj/structure/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"my" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mF" = (
+/obj/structure/bed/chair/bolted{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mP" = (
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mU" = (
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"mY" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"na" = (
+/obj/effect/step_trigger/teleporter_vector{
+	name = "Almayer_Up3";
+	vector_x = -1;
+	vector_y = 102
+	},
+/turf/open/floor/plating/almayer{
+	allow_construction = 0
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nc" = (
+/obj/structure/surface/table/almayer,
+/obj/item/reagent_container/food/condiment/hotsauce/sriracha{
+	pixel_x = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nj" = (
+/obj/structure/machinery/telecomms/relay/preset/telecomms{
+	listening_level = 4
+	},
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nk" = (
+/obj/structure/machinery/door/airlock/almayer/security{
+	dir = 2;
+	name = "\improper Interrogation"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nl" = (
+/obj/structure/pipes/vents/pump,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nm" = (
+/obj/structure/stairs/perspective{
+	dir = 4;
+	icon_state = "p_stair_sn_full_cap"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nr" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/recharger,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nA" = (
+/obj/structure/bed/chair/comfy/alpha{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nD" = (
+/obj/structure/machinery/optable,
+/obj/structure/sign/safety/biohazard{
+	pixel_x = -17
+	},
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"nO" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"oa" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/item/clothing/gloves/yellow,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"of" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"oq" = (
+/obj/structure/bed,
+/obj/structure/bed{
+	buckling_y = 13;
+	layer = 3.5;
+	pixel_y = 13
+	},
+/obj/item/bedsheet/yellow{
+	layer = 3.2
+	},
+/obj/item/bedsheet/yellow{
+	pixel_y = 13
+	},
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 3.3;
+	pixel_y = 4
+	},
+/obj/structure/window/reinforced{
+	dir = 4;
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ot" = (
+/obj/structure/surface/table/almayer,
+/obj/item/reagent_container/food/snacks/grilledcheese{
+	pixel_x = 6;
+	pixel_y = 8
+	},
+/obj/item/prop/magazine/boots/n055{
+	pixel_x = -9;
+	pixel_y = 5
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ou" = (
+/obj/structure/platform{
+	dir = 8;
+	layer = 2.7
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ow" = (
+/obj/structure/window/framed/corsat/cell/security,
+/turf/open/floor/plating,
+/area/adminlevel/ert_station/weyland_station)
+"oz" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"oJ" = (
+/turf/open/floor/plating{
+	dir = 4;
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"oN" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/obj/effect/decal/cleanable/blood/oil,
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pd" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "browncorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pi" = (
+/obj/structure/stairs/perspective{
+	dir = 1;
+	icon_state = "p_stair_full"
+	},
+/obj/structure/barricade/handrail/wire{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pm" = (
+/obj/structure/surface/table/almayer,
+/obj/item/reagent_container/glass/bucket/mopbucket,
+/obj/item/reagent_container/glass/bucket/mopbucket{
+	pixel_y = 10
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pq" = (
+/obj/structure/machinery/sleep_console{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pr" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pH" = (
+/obj/structure/stairs{
+	dir = 8;
+	icon_state = "ramptop"
+	},
+/obj/effect/step_trigger/teleporter_vector{
+	name = "Almayer_Up3";
+	vector_x = -1;
+	vector_y = 102
+	},
+/turf/open/floor/plating/almayer{
+	allow_construction = 0
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pK" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pQ" = (
+/obj/structure/machinery/disposal,
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"pU" = (
+/obj/structure/surface/table/almayer,
+/obj/effect/landmark/map_item,
+/obj/item/device/megaphone,
+/obj/structure/window/reinforced/ultra,
+/obj/structure/window/reinforced/ultra{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"qc" = (
+/obj/structure/sink{
+	pixel_y = 24
+	},
+/turf/open/floor/corsat,
+/area/adminlevel/ert_station/weyland_station)
+"qf" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"qr" = (
+/obj/structure/platform_decoration{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"qw" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"qD" = (
+/turf/open/floor/almayer_hull{
+	dir = 6;
+	icon_state = "outerhull_dir"
+	},
+/area/space)
+"qE" = (
+/obj/structure/platform_decoration{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "whitecorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"qL" = (
+/obj/structure/stairs/perspective{
+	dir = 1;
+	icon_state = "p_stair_full"
+	},
+/obj/structure/barricade/handrail/wire{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"qU" = (
+/obj/structure/machinery/medical_pod/sleeper{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 6;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"qY" = (
+/obj/structure/curtain/medical,
+/turf/open/floor/corsat{
+	icon_state = "retrosquareslight"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rj" = (
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/space)
+"rm" = (
+/obj/structure/machinery/telecomms/receiver/preset,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ro" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rp" = (
+/obj/structure/reagent_dispensers/fueltank/custom,
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rt" = (
+/obj/structure/reagent_dispensers/fueltank,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ru" = (
+/obj/structure/machinery/light{
+	dir = 4;
+	invisibility = 101
+	},
+/turf/open/floor/corsat{
+	icon_state = "retrosquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rv" = (
+/obj/structure/window/framed/corsat,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rA" = (
+/obj/structure/platform{
+	dir = 4;
+	layer = 2.7
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rI" = (
+/obj/structure/bed/chair/comfy/bravo,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rL" = (
+/obj/structure/reagent_dispensers/watertank{
+	anchored = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rO" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/marine/colony{
+	name = "Barracks"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rV" = (
+/obj/structure/machinery/door/poddoor/almayer/open{
+	dir = 4;
+	id = royce_hangarlockdown;
+	name = "Hangar Lockdown";
+	use_power = 0
+	},
+/turf/open/floor/corsat{
+	icon_state = "retrosquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"rX" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sk" = (
+/obj/structure/machinery/telecomms/broadcaster/preset_right,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sm" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sp" = (
+/obj/structure/reagent_dispensers/water_cooler/stacks{
+	density = 0;
+	pixel_y = 16
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ss" = (
+/turf/open/floor/corsat{
+	dir = 6;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sw" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/computer/cameras{
+	dir = 8;
+	network = list("omega")
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sx" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 6
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sy" = (
+/obj/structure/platform{
+	dir = 4;
+	layer = 2.7
+	},
+/obj/structure/dropship_equipment/fuel/fuel_enhancer,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sA" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sB" = (
+/obj/structure/platform_decoration,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sG" = (
+/obj/structure/bed/chair/comfy/orange{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "redcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sL" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sM" = (
+/obj/structure/closet/firecloset/full,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "yellowcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sT" = (
+/obj/structure/bed/chair/comfy/bravo,
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"sU" = (
+/obj/structure/closet/toolcloset,
+/obj/structure/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tb" = (
+/obj/structure/machinery/power/fusion_engine,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tg" = (
+/obj/structure/closet/crate/ammo/alt/flame,
+/obj/structure/window/reinforced{
+	dir = 4;
+	health = 80
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tj" = (
+/obj/structure/window/reinforced/ultra{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tm" = (
+/obj/structure/platform{
+	dir = 4;
+	layer = 2.7
+	},
+/obj/structure/stairs/perspective{
+	dir = 9;
+	icon_state = "p_stair_full"
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tw" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tE" = (
+/turf/open/floor/plating{
+	dir = 8;
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tF" = (
+/obj/structure/closet/crate,
+/obj/item/stack/sheet/aluminum{
+	amount = 20
+	},
+/obj/item/stack/sheet/copper{
+	amount = 20;
+	pixel_y = 4
+	},
+/obj/item/stack/sheet/mineral/gold{
+	amount = 3;
+	pixel_y = 4
+	},
+/obj/item/stack/sheet/mineral/silver{
+	amount = 5;
+	pixel_x = 4;
+	pixel_y = 2
+	},
+/obj/item/stack/sheet/mineral/phoron{
+	amount = 25
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/obj/effect/decal/warning_stripes{
+	icon_state = "W";
+	layer = 2.5
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tG" = (
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = 11
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tK" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tL" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "whitecorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tO" = (
+/obj/structure/machinery/blackbox_recorder,
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "blue"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tQ" = (
+/obj/item/tool/mop{
+	pixel_x = -6;
+	pixel_y = 14
+	},
+/obj/structure/janitorialcart,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tX" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"tZ" = (
+/obj/structure/closet/emcloset,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ub" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/closet/medical_wall{
+	pixel_x = 30
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ug" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/space)
+"ur" = (
+/obj/item/tool/warning_cone{
+	pixel_x = -21;
+	pixel_y = 3
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"uy" = (
+/obj/structure/bed,
+/obj/structure/bed{
+	buckling_y = 13;
+	layer = 3.5;
+	pixel_y = 13
+	},
+/obj/item/bedsheet/yellow{
+	layer = 3.2
+	},
+/obj/item/bedsheet/yellow{
+	pixel_y = 13
+	},
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 3.3;
+	pixel_y = 4
+	},
+/obj/structure/window/reinforced{
+	dir = 4;
+	pixel_x = -2;
+	pixel_y = 4
+	},
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"uA" = (
+/obj/structure/toilet{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "redcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"uF" = (
+/obj/structure/filingcabinet,
+/obj/item/folder/yellow,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"uO" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NE-out";
+	pixel_x = 1;
+	pixel_y = 1
+	},
+/obj/effect/decal/cleanable/blood/oil,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"uX" = (
+/turf/open/floor/plating{
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"uY" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vh" = (
+/turf/open/floor/corsat{
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vk" = (
+/obj/structure/bed/chair/comfy/black,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vl" = (
+/obj/item/device/assembly/mousetrap/armed,
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vn" = (
+/obj/structure/platform{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vp" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vr" = (
+/obj/structure/platform_decoration{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "whitecorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vw" = (
+/obj/structure/machinery/disposal{
+	density = 0;
+	layer = 3.2;
+	pixel_y = 16
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vx" = (
+/turf/open/floor/almayer{
+	dir = 1;
+	icon_state = "w-y1"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vA" = (
+/obj/structure/largecrate/random/barrel/green,
+/turf/open/floor/corsat,
+/area/adminlevel/ert_station/weyland_station)
+"vD" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vL" = (
+/obj/structure/machinery/shower{
+	dir = 4
+	},
+/obj/structure/window/reinforced{
+	layer = 3.8
+	},
+/obj/structure/window/reinforced{
+	dir = 1;
+	layer = 2
+	},
+/obj/structure/machinery/light/small,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vO" = (
+/turf/open/floor/corsat{
+	icon_state = "bluecorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vX" = (
+/obj/structure/machinery/door/airlock/almayer/engineering/reinforced/OT,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"vY" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N"
+	},
+/obj/item/tool/wet_sign,
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 1
+	},
+/obj/structure/machinery/light/double,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"wr" = (
+/obj/item/tool/wet_sign,
+/turf/open/floor/corsat{
+	icon_state = "retrosquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"wy" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N"
+	},
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"wA" = (
+/obj/structure/surface/rack,
+/obj/item/tool/weldpack{
+	pixel_x = 5
+	},
+/obj/item/tool/weldpack{
+	pixel_x = -2
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"wD" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 5
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"xn" = (
+/obj/structure/machinery/light{
+	dir = 4;
+	invisibility = 101
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"xt" = (
+/obj/structure/window/framed/corsat,
+/turf/open/floor/plating,
+/area/adminlevel/ert_station/weyland_station)
+"xv" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out";
+	layer = 2.5
+	},
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"xC" = (
+/obj/structure/largecrate/random/case/double,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"xE" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/obj/structure/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "arrow_south"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"xM" = (
+/turf/open/floor/plating{
+	dir = 9;
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"xS" = (
+/obj/structure/bed/chair/office/light{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "officesquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ya" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yb" = (
+/obj/structure/machinery/light,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yh" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yi" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/structure/machinery/door/window/southleft{
+	dir = 4;
+	layer = 2.8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yp" = (
+/obj/structure/bed/chair/comfy{
+	dir = 1
+	},
+/obj/structure/window/reinforced/ultra{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yt" = (
+/obj/structure/machinery/telecomms/server/presets/squads,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yE" = (
+/obj/structure/curtain/red,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yH" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yI" = (
+/obj/docking_port/stationary/emergency_response/idle_port2{
+	name = "USCSS Royce Pad 2"
+	},
+/turf/open/floor/plating{
+	dir = 10;
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yJ" = (
+/obj/structure/machinery/telecomms/broadcaster/preset_left,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yK" = (
+/obj/structure/bed/chair/office/dark{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yV" = (
+/obj/structure/closet/emcloset,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"yX" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "bluecorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zh" = (
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zq" = (
+/obj/structure/machinery/door_control{
+	id = "royce_interrogation";
+	name = "\improper Shutters";
+	pixel_x = -6;
+	pixel_y = -6;
+	req_access_txt = "3"
+	},
+/obj/structure/surface/table/reinforced/black,
+/obj/item/device/taperecorder{
+	pixel_x = 3;
+	pixel_y = 3
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zt" = (
+/obj/structure/machinery/door/airlock/almayer/security/glass/reinforced{
+	name = "\improper Armory"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zv" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "browncorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zC" = (
+/obj/structure/bed/chair/office/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "officesquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zD" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zS" = (
+/obj/structure/machinery/door/airlock/almayer/security/glass/reinforced{
+	dir = 1;
+	name = "\improper Particle Cannon Systems Room";
+	req_access = null;
+	req_one_access_txt = "3;19"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zT" = (
+/turf/open/floor/corsat{
+	icon_state = "blue"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zU" = (
+/obj/structure/machinery/door/airlock/almayer/security/colony{
+	dir = 1;
+	name = "\improper Brig Cell 2"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"zY" = (
+/obj/structure/closet/crate,
+/obj/item/stack/sheet/plasteel{
+	amount = 30;
+	pixel_x = 4;
+	pixel_y = 4
+	},
+/obj/item/stack/sheet/metal{
+	amount = 50
+	},
+/obj/item/stack/sheet/mineral/uranium{
+	amount = 5
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ad" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E"
+	},
+/obj/structure/pipes/standard/manifold/hidden/green{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ah" = (
+/turf/open/floor/corsat{
+	icon_state = "arrow_north"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"AB" = (
+/obj/structure/shuttle/engine/heater{
+	dir = 4
+	},
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/adminlevel/ert_station/weyland_station)
+"AG" = (
+/obj/structure/closet/secure_closet/engineering_personal,
+/obj/item/clothing/suit/storage/hazardvest/yellow,
+/obj/item/clothing/suit/storage/hazardvest/yellow,
+/obj/item/clothing/suit/storage/hazardvest/yellow,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"AS" = (
+/turf/open/floor/almayer{
+	dir = 1;
+	icon_state = "w-y2"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"AX" = (
+/obj/structure/closet/secure_closet/engineering_materials,
+/obj/effect/decal/warning_stripes{
+	icon_state = "W";
+	layer = 2.5
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"AY" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Bb" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Bm" = (
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Bn" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Bq" = (
+/obj/structure/reagent_dispensers/fueltank/gas/hydrogen{
+	anchored = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Br" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/comdoor{
+	name = "Hangar Operations"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Bw" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/obj/structure/closet/hydrant{
+	pixel_y = 30
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"By" = (
+/obj/structure/bed/chair/comfy,
+/obj/structure/window/reinforced/ultra,
+/obj/structure/window/reinforced/ultra{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"BA" = (
+/obj/structure/machinery/cm_vending/sorted/tech/tool_storage/antag,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"BB" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/secdoor/glass/reinforced{
+	dir = 2;
+	name = "Brig"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"BK" = (
+/turf/open/floor/almayer_hull{
+	dir = 1;
+	icon_state = "outerhull_dir"
+	},
+/area/space)
+"BM" = (
+/obj/structure/machinery/shower{
+	dir = 4
+	},
+/obj/structure/window/reinforced{
+	layer = 3.8
+	},
+/obj/structure/window/reinforced{
+	dir = 1;
+	layer = 2
+	},
+/obj/structure/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Cm" = (
+/obj/structure/machinery/disposal,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Co" = (
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Cx" = (
+/obj/structure/machinery/portable_atmospherics/canister/air,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/space)
+"Cy" = (
+/obj/structure/surface/table/almayer,
+/obj/item/ashtray/plastic,
+/obj/item/trash/cigbutt,
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"CB" = (
+/obj/structure/reagent_dispensers/fueltank/gas/methane{
+	anchored = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"CC" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"CG" = (
+/turf/closed/wall/r_wall/biodome,
+/area/adminlevel/ert_station/weyland_station)
+"CK" = (
+/obj/item/tool/warning_cone{
+	layer = 3.6;
+	pixel_x = -16;
+	pixel_y = -9
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"CV" = (
+/obj/structure/machinery/light{
+	dir = 4;
+	invisibility = 101
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"CX" = (
+/obj/structure/closet,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"CZ" = (
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Dl" = (
+/obj/structure/platform,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Dn" = (
+/obj/structure/reagent_dispensers/fueltank,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/space)
+"Dp" = (
+/obj/structure/closet/secure_closet/brig{
+	pixel_y = 16;
+	pixel_x = 7;
+	density = 0
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Dw" = (
+/turf/open/floor/corsat{
+	icon_state = "arrow_east"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Dx" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/obj/structure/machinery/light/double{
+	dir = 8;
+	pixel_x = -10;
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"DB" = (
+/obj/structure/machinery/disposal,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"DI" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"DO" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"DP" = (
+/obj/structure/machinery/portable_atmospherics/canister/air,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"El" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ez" = (
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"EA" = (
+/obj/structure/surface/rack,
+/obj/effect/spawner/random/toolbox,
+/turf/open/floor/corsat,
+/area/adminlevel/ert_station/weyland_station)
+"EM" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/item/tool/weldingtool/largetank,
+/obj/item/clothing/glasses/welding,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"EO" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluecorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"EQ" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/obj/structure/pipes/standard/manifold/hidden/green,
+/turf/open/floor/corsat{
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ET" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "redcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Fb" = (
+/obj/structure/machinery/telecomms/bus/preset_one,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Fj" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Fu" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/engidoor{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Fy" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"FA" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/almayer_hull,
+/area/adminlevel/ert_station/weyland_station)
+"FD" = (
+/obj/structure/machinery/iv_drip,
+/turf/open/floor/corsat{
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"FE" = (
+/obj/structure/machinery/cryopod,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"FF" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "E";
+	pixel_x = 1
+	},
+/obj/structure/surface/table/reinforced/black,
+/obj/item/device/taperecorder{
+	pixel_x = 7;
+	pixel_y = 7
+	},
+/obj/item/reagent_container/glass/bucket/mopbucket{
+	pixel_x = -9;
+	pixel_y = 8
+	},
+/obj/item/weapon/baseballbat/metal{
+	pixel_x = -2;
+	pixel_y = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"FJ" = (
+/obj/structure/machinery/telecomms/server/presets/engineering,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"FR" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "greenwhitecorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"FT" = (
+/obj/structure/bed/chair/wood/normal{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"FY" = (
+/obj/structure/platform_decoration{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ga" = (
+/obj/structure/surface/table/almayer,
+/obj/item/paper_bin,
+/obj/item/tool/pen/blue,
+/turf/open/floor/corsat{
+	icon_state = "officesquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ge" = (
+/obj/structure/surface/table/almayer,
+/obj/item/storage/fancy/cigarettes/lucky_strikes,
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Gl" = (
+/obj/structure/surface/table/reinforced/prison,
+/obj/structure/closet/secure_closet/surgical{
+	pixel_y = 30
+	},
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Gs" = (
+/obj/structure/largecrate/random/barrel/red,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"GA" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/reagentgrinder/industrial{
+	pixel_y = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"GB" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out";
+	pixel_x = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"GG" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"GJ" = (
+/obj/structure/barricade/handrail/wire,
+/turf/open/floor/corsat{
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"GQ" = (
+/obj/item/device/assembly/mousetrap/armed,
+/turf/open/floor/corsat{
+	icon_state = "arrow_north"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"GT" = (
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/obj/structure/machinery/door/window/ultra{
+	dir = 8;
+	req_access_txt = "19"
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"GV" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ha" = (
+/obj/vehicle/powerloader/ft{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Hb" = (
+/obj/structure/surface/table/almayer,
+/obj/item/clipboard,
+/obj/item/paper,
+/obj/item/tool/pen/blue,
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Hg" = (
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ho" = (
+/obj/structure/machinery/door/airlock/almayer/maint,
+/turf/open/floor/almayer_hull,
+/area/adminlevel/ert_station/weyland_station)
+"Hq" = (
+/turf/open/floor/almayer_hull,
+/area/space)
+"Hr" = (
+/obj/structure/bed{
+	icon_state = "abed"
+	},
+/obj/structure/machinery/light/small/built{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ht" = (
+/obj/structure/machinery/photocopier,
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"HD" = (
+/obj/structure/largecrate/random,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"HE" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/space)
+"HL" = (
+/obj/structure/largecrate/supply/weapons/flamers,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"HV" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "officesquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ij" = (
+/obj/structure/surface/table/almayer,
+/obj/item/trash/USCMtray{
+	pixel_x = 5
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ik" = (
+/obj/structure/machinery/door/poddoor/almayer/open{
+	dir = 4;
+	id = royce_hangarlockdown;
+	name = "Hangar Lockdown";
+	use_power = 0
+	},
+/obj/structure/machinery/door/airlock/multi_tile/almayer/engidoor/glass/colony{
+	name = "Shuttle Workshop";
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ir" = (
+/turf/open/floor/plating{
+	dir = 6;
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"IA" = (
+/turf/open/floor/almayer_hull,
+/area/adminlevel/ert_station/weyland_station)
+"IH" = (
+/obj/structure/machinery/cm_vending/sorted/tech/comp_storage/antag,
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"II" = (
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"IL" = (
+/obj/structure/machinery/door_control{
+	id = "royce_hangarstore";
+	pixel_x = -25;
+	req_one_access_txt = "3";
+	name = "Hangar Store"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"IN" = (
+/turf/open/space/basic,
+/area/space)
+"IP" = (
+/obj/structure/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "arrow_south"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"IS" = (
+/obj/structure/surface/table/reinforced/black,
+/obj/item/paper_bin/wy,
+/obj/item/tool/pen,
+/obj/item/tool/stamp/internalaffairs{
+	pixel_y = 9;
+	pixel_x = -5
+	},
+/obj/item/device/flashlight/lamp{
+	pixel_x = 5;
+	pixel_y = 13
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"IX" = (
+/obj/structure/toilet{
+	dir = 4
+	},
+/obj/structure/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plating/plating_catwalk/prison,
+/area/adminlevel/ert_station/weyland_station)
+"IY" = (
+/obj/structure/largecrate/random/case/double,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"IZ" = (
+/obj/structure/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "retrosquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ja" = (
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Jg" = (
+/obj/structure/curtain/shower,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ji" = (
+/obj/structure/machinery/power/port_gen/pacman,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Jp" = (
+/obj/structure/filingcabinet,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"JG" = (
+/obj/structure/closet/secure_closet/engineering_welding,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"JO" = (
+/obj/structure/closet/firecloset,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"JY" = (
+/obj/structure/machinery/telecomms/relay/preset/telecomms{
+	listening_level = 6
+	},
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ka" = (
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_21";
+	pixel_y = 11
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Kc" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Kf" = (
+/obj/structure/closet/secure_closet/engineering_welding,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Kg" = (
+/obj/structure/flora/pottedplant,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Kj" = (
+/obj/structure/machinery/door_control{
+	id = "royce_hangarstore";
+	pixel_x = -25;
+	req_one_access_txt = "3";
+	name = "Hangar Store"
+	},
+/obj/vehicle/powerloader/ft{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Kn" = (
+/obj/structure/machinery/door_control{
+	id = "royce_hangarstore";
+	pixel_x = 25;
+	req_one_access_txt = "3";
+	name = "Hangar Store"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Kw" = (
+/obj/structure/machinery/chem_master/industry_mixer,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"KI" = (
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"KJ" = (
+/obj/structure/closet/firecloset,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"KP" = (
+/obj/structure/surface/table/almayer,
+/obj/item/trash/USCMtray{
+	pixel_x = 6;
+	pixel_y = 4
+	},
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"KW" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/marine/colony{
+	name = "Cryogenics"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Lf" = (
+/obj/structure/pipes/vents/pump{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/adminlevel/ert_station/weyland_station)
+"Lh" = (
+/obj/structure/largecrate/random/barrel/yellow,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Lj" = (
+/obj/structure/machinery/line_nexter{
+	id = "line2";
+	pixel_x = -2
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ll" = (
+/obj/structure/reagent_dispensers/acidtank,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Lm" = (
+/obj/structure/machinery/light,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "yellowcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Lr" = (
+/turf/open/floor/corsat{
+	dir = 6;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ls" = (
+/obj/structure/machinery/autolathe/armylathe/full,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"LH" = (
+/turf/open/floor/almayer_hull{
+	icon_state = "outerhull_dir"
+	},
+/area/space)
+"LK" = (
+/obj/structure/machinery/autolathe/full,
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"LP" = (
+/turf/open/floor/plating{
+	dir = 5;
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"LV" = (
+/turf/open/floor/almayer_hull{
+	dir = 9;
+	icon_state = "outerhull_dir"
+	},
+/area/space)
+"LW" = (
+/obj/structure/machinery/cm_vending/sorted/tech/electronics_storage,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Mc" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Me" = (
+/obj/structure/platform_decoration{
+	dir = 8
+	},
+/obj/structure/platform_decoration{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "arrow_south"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Mk" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Mm" = (
+/obj/effect/decal/cleanable/blood,
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Mx" = (
+/obj/structure/machinery/telecomms/server/presets/medical,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"My" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "bluegreycorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"MO" = (
+/obj/structure/largecrate/random/secure,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/space)
+"MP" = (
+/obj/structure/machinery/photocopier,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"MQ" = (
+/obj/structure/surface/rack,
+/obj/item/weapon/gun/rifle/m41a/elite{
+	pixel_y = 1
+	},
+/obj/item/weapon/gun/rifle/m41a/elite{
+	pixel_y = -4
+	},
+/obj/structure/pipes/standard/simple/hidden/green,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ni" = (
+/obj/structure/surface/rack,
+/obj/item/storage/toolbox/mechanical,
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Np" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Nw" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ny" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/obj/structure/pipes/standard/simple/visible/universal{
+	dir = 8;
+	pixel_x = 16
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NA" = (
+/turf/open/floor/corsat{
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ND" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 4
+	},
+/obj/structure/machinery/light/double,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NE" = (
+/obj/structure/machinery/cm_vending/gear/antag{
+	hacked = 1;
+	name = "\improper Response Team Automated Gear Rack";
+	use_snowflake_points = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NJ" = (
+/obj/effect/decal/cleanable/blood/oil,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NL" = (
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NM" = (
+/obj/structure/bed/chair/office/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NN" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/obj/structure/bed/chair/comfy/alpha{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NT" = (
+/turf/open/floor/corsat{
+	icon_state = "officesquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NV" = (
+/obj/structure/bed/chair/comfy/bravo{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"NZ" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ob" = (
+/obj/structure/machinery/light,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Of" = (
+/obj/structure/flora/pottedplant{
+	icon_state = "pottedplant_10";
+	pixel_y = 19
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Oi" = (
+/obj/structure/surface/table/reinforced/black,
+/obj/structure/machinery/computer/communications,
+/obj/structure/machinery/cm_vending/sorted/medical/wall_med{
+	pixel_y = 25
+	},
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ol" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "N";
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "arrow_south"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Op" = (
+/obj/structure/reagent_dispensers/oxygentank{
+	anchored = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Oq" = (
+/obj/structure/machinery/telecomms/processor/preset_four,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Oz" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "browncorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"OE" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W";
+	layer = 2.5
+	},
+/obj/structure/surface/table/reinforced/black,
+/obj/item/tool/wirecutters/clippers,
+/obj/item/handcuffs/zip,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"OL" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SE-out"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 6
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"OM" = (
+/obj/structure/machinery/telecomms/server/presets/command,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"OZ" = (
+/obj/structure/surface/table/almayer,
+/obj/item/device/flashlight/lamp,
+/turf/open/floor/corsat{
+	dir = 6;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Pi" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Po" = (
+/obj/structure/platform{
+	dir = 4;
+	layer = 2.7
+	},
+/obj/structure/closet/firecloset,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Pv" = (
+/obj/structure/machinery/power/terminal{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"PC" = (
+/obj/structure/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"PF" = (
+/obj/structure/machinery/power/smes/buildable,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"PG" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/obj/structure/pipes/standard/simple/visible/yellow{
+	dir = 4
+	},
+/obj/structure/pipes/standard/simple/visible/universal{
+	dir = 8;
+	pixel_x = 16
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"PH" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NE-out";
+	pixel_x = 1;
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"PJ" = (
+/obj/structure/reagent_dispensers/ethanoltank{
+	anchored = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"PV" = (
+/obj/structure/reagent_dispensers/water_cooler,
+/turf/open/floor/corsat{
+	icon_state = "bluegreycorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"PY" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Qn" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/structure/machinery/prop/almayer/CICmap,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Qu" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"QA" = (
+/turf/open/floor/corsat,
+/area/adminlevel/ert_station/weyland_station)
+"QC" = (
+/obj/structure/closet/bombcloset,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"QN" = (
+/obj/structure/surface/table/almayer,
+/obj/item/trash/USCMtray{
+	pixel_x = 6;
+	pixel_y = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"QR" = (
+/obj/structure/machinery/light,
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "bluegreycorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ra" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/door/window/westright{
+	dir = 2
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Rg" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/faxmachine,
+/turf/open/floor/corsat{
+	icon_state = "officesquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ri" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/item/device/flashlight/lamp,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Rj" = (
+/obj/structure/bed/chair/bolted,
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Rm" = (
+/turf/closed/wall/r_wall/biodome/biodome_unmeltable,
+/area/adminlevel/ert_station/weyland_station)
+"RD" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/obj/effect/decal/cleanable/blood/oil,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"RI" = (
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"RS" = (
+/turf/open/floor/corsat{
+	dir = 6;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"RX" = (
+/turf/open/floor/corsat{
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Sd" = (
+/obj/structure/surface/table/almayer,
+/obj/effect/spawner/random/tool,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Sx" = (
+/obj/structure/machinery/body_scanconsole{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "retrosquareslight"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"SA" = (
+/obj/structure/machinery/telecomms/server/presets/security,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"SC" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"SK" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/effect/decal/cleanable/blood/oil,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"SL" = (
+/obj/structure/shuttle/engine/propulsion{
+	dir = 8
+	},
+/turf/open/space/basic,
+/area/space)
+"SQ" = (
+/turf/open/floor/corsat{
+	dir = 6;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ta" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/marine/colony{
+	name = "Preparations"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Td" = (
+/obj/structure/machinery/cm_vending/sorted/tech/tool_storage/antag,
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Te" = (
+/obj/structure/platform_decoration{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Tg" = (
+/obj/structure/bed/chair/office/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Tj" = (
+/obj/structure/machinery/door/airlock/almayer/maint,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Tl" = (
+/turf/open/floor/almayer{
+	dir = 1;
+	icon_state = "w-y0"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"To" = (
+/obj/structure/platform_decoration{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Tr" = (
+/turf/open/floor/corsat{
+	icon_state = "retrosquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Tx" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"TI" = (
+/obj/structure/machinery/door/airlock/almayer/maint,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"TR" = (
+/obj/structure/pipes/vents/pump{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/adminlevel/ert_station/weyland_station)
+"TV" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "white"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"TZ" = (
+/obj/structure/closet/emcloset{
+	pixel_y = 15;
+	pixel_x = 8;
+	density = 0
+	},
+/obj/structure/closet/firecloset/full{
+	pixel_y = 15;
+	pixel_x = -8;
+	density = 0
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Ua" = (
+/obj/structure/surface/table/almayer,
+/obj/item/paper_bin/uscm,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "brown"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Uc" = (
+/obj/effect/decal/cleanable/blood/oil,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Uh" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "yellowcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Um" = (
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Uo" = (
+/obj/structure/toilet{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Up" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "blue"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Uu" = (
+/turf/open/floor/plating,
+/area/adminlevel/ert_station/weyland_station)
+"Uv" = (
+/turf/open/floor/corsat{
+	icon_state = "arrow_south"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Uw" = (
+/obj/structure/closet,
+/obj/item/stack/sheet/glass/large_stack,
+/obj/item/device/lightreplacer,
+/obj/item/reagent_container/spray/cleaner,
+/obj/item/stack/rods{
+	amount = 40
+	},
+/obj/item/tool/weldingtool,
+/obj/item/clothing/glasses/welding,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"UG" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/machinery/door_control{
+	id = "royce_hangarlockdown";
+	name = "Hangar Lockdown";
+	pixel_x = -5;
+	pixel_y = 2;
+	use_power = 0
+	},
+/turf/open/floor/corsat{
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"UU" = (
+/obj/structure/largecrate/random/barrel/yellow,
+/turf/open/floor/corsat,
+/area/adminlevel/ert_station/weyland_station)
+"UX" = (
+/obj/structure/surface/table/almayer,
+/obj/item/clipboard,
+/obj/item/cell/high,
+/obj/item/clothing/glasses/welding,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Vi" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/standard/manifold/fourway/hidden/green,
+/obj/structure/prop/almayer/hangar_stencil,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Vj" = (
+/obj/structure/closet{
+	name = "backpack storage"
+	},
+/obj/item/storage/backpack/marine/grenadepack,
+/obj/item/storage/backpack/marine/grenadepack,
+/obj/item/storage/backpack/marine/mortarpack,
+/obj/item/storage/backpack/marine/mortarpack,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Vm" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/engidoor,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Vn" = (
+/obj/structure/largecrate/random,
+/turf/open/floor/corsat,
+/area/adminlevel/ert_station/weyland_station)
+"Vp" = (
+/obj/structure/machinery/cm_vending/sorted/marine_food{
+	density = 0;
+	pixel_y = 16
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Vs" = (
+/obj/structure/bed/chair/comfy{
+	dir = 1
+	},
+/obj/structure/window/reinforced/ultra{
+	dir = 1
+	},
+/obj/structure/window/reinforced/ultra{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Vz" = (
+/turf/open/floor/almayer_hull{
+	dir = 4;
+	icon_state = "outerhull_dir"
+	},
+/area/space)
+"VK" = (
+/obj/structure/flora/pottedplant,
+/turf/open/floor/corsat{
+	dir = 10;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"VN" = (
+/obj/item/device/assembly/mousetrap/armed,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"VU" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "blue"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"VY" = (
+/obj/structure/machinery/cryopod/right,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Wb" = (
+/obj/item/reagent_container/glass/bucket/janibucket,
+/obj/item/reagent_container/glass/bucket/janibucket{
+	pixel_y = 11
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Wd" = (
+/obj/structure/surface/rack,
+/obj/item/stack/sheet/plasteel{
+	amount = 10
+	},
+/obj/item/stack/sheet/glass{
+	amount = 50;
+	pixel_x = 3;
+	pixel_y = 3
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"We" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Wg" = (
+/turf/open/floor/corsat{
+	dir = 6;
+	icon_state = "darkgreen"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Wj" = (
+/turf/open/floor/corsat{
+	icon_state = "yellowcorner";
+	dir = 4
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Wl" = (
+/obj/structure/surface/table/almayer,
+/obj/item/folder/black_random,
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Wn" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NW-out";
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Wu" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluegreycorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"WG" = (
+/obj/structure/machinery/power/terminal{
+	dir = 4
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"WJ" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "yellowcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"WP" = (
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"WT" = (
+/obj/structure/bed/chair/comfy/bravo,
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Xa" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NE-out";
+	pixel_x = 1;
+	pixel_y = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Xb" = (
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Xf" = (
+/obj/docking_port/stationary/emergency_response/idle_port2{
+	name = "USCSS Royce Pad 1"
+	},
+/turf/open/floor/plating{
+	dir = 10;
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Xs" = (
+/obj/structure/barricade/handrail{
+	dir = 8;
+	layer = 3.3;
+	pixel_x = -1;
+	pixel_y = 3
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Xu" = (
+/obj/structure/machinery/telecomms/receiver/preset_left,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"XF" = (
+/turf/open/floor/corsat{
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"XQ" = (
+/obj/effect/step_trigger/teleporter_vector{
+	name = "Almayer_Up3";
+	vector_x = -1;
+	vector_y = 102
+	},
+/turf/open/floor/almayer_hull,
+/area/adminlevel/ert_station/weyland_station)
+"XT" = (
+/obj/structure/platform{
+	dir = 8;
+	layer = 2.8
+	},
+/obj/structure/dropship_equipment/fuel/cooling_system,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"XW" = (
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"XX" = (
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	dir = 5;
+	icon_state = "greenwhite"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"XZ" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "bluegreycorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Yb" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "S"
+	},
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Yd" = (
+/obj/structure/machinery/telecomms/hub/preset,
+/turf/open/floor/almayer{
+	icon_state = "tcomms"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Yx" = (
+/turf/open/floor/corsat{
+	dir = 4;
+	icon_state = "yellow"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"YB" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/obj/item/weapon/gun/shotgun/combat{
+	pixel_y = 9
+	},
+/obj/item/weapon/gun/shotgun/combat{
+	pixel_y = 2
+	},
+/obj/item/weapon/gun/shotgun/combat{
+	pixel_y = -6
+	},
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"YF" = (
+/obj/structure/noticeboard{
+	pixel_y = 32
+	},
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "bluegrey"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"YI" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out"
+	},
+/obj/structure/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "plate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"YM" = (
+/obj/structure/bed/chair/office/light{
+	dir = 8
+	},
+/turf/open/floor/corsat{
+	icon_state = "officesquares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"YN" = (
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "redcorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"YS" = (
+/obj/structure/prop/invuln/lattice_prop{
+	icon_state = "lattice12";
+	pixel_y = -16
+	},
+/obj/structure/prop/invuln/lattice_prop{
+	icon_state = "lattice12";
+	pixel_y = -16
+	},
+/turf/open/space/basic,
+/area/space)
+"YZ" = (
+/obj/structure/largecrate/random/case/small,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Za" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/turf/open/floor/corsat{
+	dir = 1;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Zd" = (
+/obj/structure/prop/almayer/missile_tube,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Zi" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "W"
+	},
+/obj/structure/pipes/standard/manifold/fourway/hidden/green,
+/obj/structure/prop/almayer/hangar_stencil{
+	icon_state = "dropship2"
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Zm" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "NE-out"
+	},
+/obj/structure/pipes/standard/simple/hidden/green{
+	dir = 5
+	},
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"Zq" = (
+/turf/open/floor/almayer_hull{
+	dir = 8;
+	icon_state = "outerhull_dir"
+	},
+/area/space)
+"Zv" = (
+/obj/structure/surface/table/reinforced/almayer_B,
+/turf/open/floor/corsat{
+	dir = 9;
+	icon_state = "red"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ZB" = (
+/obj/structure/largecrate/random,
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ZK" = (
+/turf/open/floor/plating{
+	dir = 1;
+	icon_state = "warnplate"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ZL" = (
+/obj/structure/barricade/handrail/wire{
+	dir = 4
+	},
+/obj/item/reagent_container/glass/bucket/janibucket{
+	pixel_x = -1;
+	pixel_y = 13
+	},
+/obj/item/tool/mop,
+/obj/item/reagent_container/glass/bucket{
+	pixel_x = 7;
+	pixel_y = 2
+	},
+/turf/open/floor/corsat{
+	icon_state = "yellowcorner";
+	dir = 4
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ZQ" = (
+/obj/structure/machinery/door/airlock/multi_tile/almayer/generic,
+/turf/open/floor/corsat{
+	icon_state = "marked"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ZS" = (
+/obj/structure/reagent_dispensers/fueltank{
+	anchored = 1
+	},
+/turf/open/floor/corsat{
+	icon_state = "cargo"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ZU" = (
+/obj/effect/decal/warning_stripes{
+	icon_state = "SW-out";
+	layer = 2.5
+	},
+/turf/open/floor/corsat{
+	dir = 8;
+	icon_state = "browncorner"
+	},
+/area/adminlevel/ert_station/weyland_station)
+"ZW" = (
+/obj/structure/surface/table/almayer,
+/obj/structure/window/reinforced/ultra{
+	dir = 1
+	},
+/obj/structure/window/reinforced/ultra{
+	dir = 4
+	},
+/obj/item/device/flashlight/lamp/on,
+/turf/open/floor/corsat{
+	icon_state = "squares"
+	},
+/area/adminlevel/ert_station/weyland_station)
+
+(1,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(2,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(3,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(4,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(5,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(6,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(7,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(8,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+it
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(9,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+it
+IN
+IN
+IN
+ii
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(10,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+it
+IN
+IN
+IN
+ii
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(11,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+YS
+IN
+IN
+IN
+ii
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(12,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+ii
+IN
+IN
+it
+IN
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+IN
+it
+IN
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(13,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+it
+IN
+ii
+IN
+IN
+it
+Rm
+Rm
+tO
+jN
+KI
+CG
+Pi
+vD
+FF
+CG
+MQ
+MQ
+HL
+Rm
+Rm
+it
+IN
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(14,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+it
+IN
+ii
+IN
+IN
+it
+Rm
+Oi
+sG
+cW
+XF
+aY
+Xb
+Mm
+FT
+CG
+DI
+jN
+KI
+YB
+Rm
+it
+IN
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(15,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+it
+IN
+ii
+IN
+IN
+it
+Rm
+IS
+Xb
+Xb
+XF
+CG
+Xb
+xv
+OE
+CG
+NL
+zD
+RS
+jx
+Rm
+it
+IN
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(16,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+it
+IN
+ii
+IN
+Rm
+Rm
+Rm
+CG
+CG
+Pi
+XF
+CG
+CG
+CG
+CG
+CG
+CG
+zt
+CG
+CG
+Rm
+Rm
+Rm
+IN
+IN
+it
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(17,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+LV
+Zq
+Zq
+Zq
+bS
+Zv
+jN
+uA
+ow
+Dp
+YN
+CG
+Rj
+zq
+mF
+CG
+pK
+XF
+CG
+Gl
+gh
+nD
+Rm
+Zq
+Zq
+Zq
+lQ
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(18,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Hq
+Hq
+Hq
+Rm
+cQ
+Xb
+nl
+zU
+Xb
+Xb
+nk
+NL
+zD
+RS
+CG
+pK
+XF
+CG
+hh
+kf
+FD
+Rm
+Hq
+Hq
+Hq
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(19,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Hq
+Hq
+Hq
+Rm
+CG
+CG
+CG
+CG
+Xb
+dW
+CG
+kE
+kE
+kE
+CG
+pK
+XF
+CG
+XX
+pr
+Lr
+Rm
+Hq
+Hq
+Hq
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(20,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Hq
+Hq
+Hq
+bS
+Za
+Xb
+nl
+ow
+Dp
+XF
+CG
+NN
+hl
+nA
+CG
+ya
+XF
+CG
+CG
+qY
+CG
+Rm
+Hq
+Hq
+Hq
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(21,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Hq
+Hq
+Hq
+Rm
+Hr
+zD
+Uo
+zU
+Xb
+XF
+nk
+NL
+zD
+RS
+CG
+pK
+YN
+hI
+II
+gh
+mP
+Rm
+Rm
+Hq
+Hq
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(22,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Hq
+Hq
+Hq
+Rm
+CG
+CG
+CG
+CG
+Pi
+YN
+CG
+CG
+CG
+CG
+CG
+ET
+Xb
+mj
+jU
+kf
+FR
+mP
+Rm
+Hq
+Hq
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(23,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Hq
+Hq
+Hq
+bS
+Za
+Xb
+nl
+ow
+Dp
+Xb
+cd
+jN
+jN
+jN
+gz
+Xb
+dW
+hI
+jU
+Sx
+kf
+pq
+Rm
+Hq
+Hq
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(24,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Hq
+Hq
+Hq
+Rm
+Hr
+zD
+Uo
+zU
+Xb
+Xb
+Co
+zD
+CZ
+zD
+Co
+Xb
+XF
+CG
+pQ
+eh
+PC
+qU
+Rm
+Hq
+Hq
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(25,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Hq
+Rm
+Rm
+CG
+CG
+CG
+CG
+CG
+Co
+BB
+CG
+CG
+CG
+CG
+CG
+Co
+BB
+CG
+CG
+CG
+CG
+CG
+Rm
+Rm
+Hq
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(26,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+Rm
+jN
+jN
+jN
+jN
+jN
+ET
+Tr
+Tr
+YN
+jN
+jN
+jN
+ET
+Tr
+Tr
+YN
+jN
+jN
+jN
+jN
+jN
+Rm
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(27,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(28,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+lz
+Yx
+Yx
+Yx
+Yx
+Yx
+Wj
+Tr
+Tr
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(29,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+Tr
+vO
+VU
+VU
+VU
+VU
+VU
+VU
+VU
+VU
+yX
+Tr
+lz
+Yx
+SQ
+CG
+CG
+CG
+CG
+CG
+RI
+Wj
+Tr
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(30,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Tr
+zT
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+Up
+Tr
+NA
+CG
+CG
+CG
+sU
+JG
+Ni
+CG
+CG
+qf
+Tr
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(31,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Xb
+Zd
+mv
+CG
+Tr
+Tr
+zT
+CG
+ih
+jG
+lY
+Kg
+kN
+VK
+CG
+Up
+Tr
+NA
+CG
+LK
+AG
+WJ
+Xb
+Uh
+jH
+CG
+qf
+Tr
+Tr
+CG
+mv
+Xb
+Xb
+fx
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(32,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Xb
+Zd
+Xb
+CG
+Tr
+Tr
+zT
+CG
+bs
+YM
+NT
+NT
+NT
+vh
+CG
+Up
+Tr
+NA
+CG
+IY
+Xb
+Xb
+Xb
+Xb
+yb
+CG
+qf
+Tr
+Tr
+CG
+Xb
+Xb
+Xb
+fx
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(33,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+aN
+Qn
+Xb
+CG
+Tr
+Tr
+zT
+CG
+ot
+NT
+hv
+Bb
+My
+QR
+CG
+EO
+Tr
+Uh
+CG
+sM
+lz
+kC
+Td
+IH
+Wj
+CG
+qf
+Tr
+Tr
+CG
+Xb
+Qn
+CC
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(34,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+We
+iD
+Xb
+zS
+Tr
+Tr
+zT
+CG
+YF
+HV
+vh
+Ga
+XW
+NT
+Br
+Tr
+Tr
+Tr
+hU
+Xb
+GJ
+Ha
+CC
+EM
+NM
+CG
+qf
+Tr
+Tr
+zS
+Xb
+vk
+CC
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(35,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Ri
+dL
+Xb
+CG
+Tr
+Tr
+zT
+CG
+MP
+NT
+vh
+Rg
+XW
+NT
+Co
+Tr
+Tr
+Tr
+Co
+Xb
+GJ
+Dw
+wA
+oa
+qf
+CG
+qf
+Tr
+Tr
+CG
+Xb
+dL
+Ri
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(36,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Xb
+Zd
+Xb
+CG
+Tr
+Tr
+zT
+CG
+Cy
+NT
+XZ
+Bn
+Wu
+PV
+eO
+yX
+Tr
+lz
+CG
+ZL
+Uh
+tX
+tX
+Tg
+Lm
+CG
+qf
+Tr
+Tr
+CG
+Xb
+Xb
+Xb
+fx
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(37,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Xb
+hn
+Xb
+CG
+Tr
+Tr
+zT
+CG
+aW
+zC
+NT
+NT
+xS
+UG
+CG
+Up
+Tr
+NA
+CG
+dD
+Uv
+Xb
+cW
+Xb
+Xb
+CG
+qf
+Tr
+Tr
+CG
+Xb
+Hg
+Xb
+fx
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(38,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Rm
+CG
+TI
+CG
+Tr
+Tr
+zT
+CG
+Ge
+Wl
+hj
+Hb
+sw
+OZ
+CG
+Up
+Tr
+NA
+CG
+jp
+Uv
+Xb
+Xb
+YZ
+Wd
+CG
+qf
+Tr
+Tr
+CG
+TI
+CG
+Rm
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(39,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+rV
+rV
+CG
+CG
+xt
+xt
+xt
+xt
+xt
+xt
+CG
+rV
+rV
+rV
+CG
+CG
+CG
+aD
+Ik
+CG
+CG
+CG
+CG
+rV
+rV
+CG
+IA
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(40,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+CG
+Tr
+Tr
+mv
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+mv
+Tr
+Tr
+Tr
+Xb
+mv
+Xb
+Xb
+Xb
+Xb
+Xb
+mv
+Xb
+Tr
+Tr
+CG
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(41,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+FA
+CG
+ge
+jl
+Tr
+Tr
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+lC
+Tr
+Tr
+Tr
+jl
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+Tr
+Tr
+lC
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(42,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+yV
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(43,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+CG
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+wr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+CG
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(44,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Co
+Co
+hc
+Xb
+Xb
+Xb
+Xb
+RX
+Tr
+Tr
+Tr
+GV
+Xb
+Xb
+Xb
+Xb
+Co
+Co
+hc
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(45,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Co
+Co
+Co
+Xb
+CG
+Xb
+Xb
+RX
+Tr
+Tr
+Tr
+GV
+Xb
+Xb
+CG
+Xb
+Co
+Co
+Co
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(46,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+TZ
+Tr
+Tr
+Co
+OL
+Ad
+gf
+Dx
+gf
+gf
+gf
+gf
+gf
+gf
+gf
+gf
+gf
+Dx
+gf
+Ad
+Zm
+Co
+Tr
+Tr
+RX
+CG
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(47,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Lf
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Lf
+Nw
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(48,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+xM
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+Xf
+Uu
+ND
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(49,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+wy
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(50,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+Nw
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(51,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+FA
+IA
+CG
+GV
+Tr
+Tr
+CG
+Bw
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+Nw
+Xb
+Tr
+Tr
+RX
+iZ
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(52,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+Nw
+Xb
+Tr
+Tr
+RX
+hR
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(53,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+Nw
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(54,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+EQ
+Uu
+LP
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+Ir
+Uu
+vY
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(55,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+TR
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+TR
+Nw
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(56,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+TZ
+Tr
+Tr
+Co
+bF
+Vi
+GG
+lu
+ub
+GG
+GG
+GG
+GG
+GG
+GG
+GG
+GG
+lu
+GG
+jI
+hM
+hc
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(57,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Co
+Co
+Co
+Xb
+CG
+Xb
+Xb
+RX
+Tr
+Tr
+Tr
+GV
+Xb
+Xb
+CG
+Xb
+Co
+Co
+Co
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(58,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Co
+Co
+Co
+Xb
+Xb
+Xb
+Xb
+RX
+Tr
+Tr
+Tr
+GV
+Xb
+Xb
+Xb
+Xb
+Co
+Co
+Co
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(59,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+FA
+IA
+iI
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+Xb
+iI
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(60,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Rm
+CG
+CG
+CG
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+CG
+CG
+CG
+Rm
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(61,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+na
+na
+na
+CG
+GV
+Tr
+Tr
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Wg
+Tr
+Tr
+Tr
+zh
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tr
+Tr
+RX
+CG
+XQ
+XQ
+XQ
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(62,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+na
+na
+na
+CG
+GV
+Tr
+Tr
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Tr
+Tr
+Tr
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Tr
+Tr
+RX
+CG
+XQ
+XQ
+XQ
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(63,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+na
+na
+na
+CG
+GV
+Tr
+Tr
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+Tr
+Tr
+Tr
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+Tr
+Tr
+RX
+CG
+XQ
+XQ
+XQ
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(64,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+pH
+pH
+pH
+CG
+GV
+Tr
+Tr
+CG
+jl
+rX
+rX
+rX
+rX
+rX
+rX
+Tr
+Tr
+Tr
+rX
+rX
+rX
+rX
+rX
+rX
+lC
+CG
+Tr
+Tr
+RX
+CG
+pH
+pH
+pH
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(65,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+pH
+pH
+pH
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+CG
+Tr
+Tr
+RX
+CG
+pH
+pH
+pH
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(66,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+pH
+pH
+pH
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+sT
+aI
+rX
+aI
+hG
+tm
+bg
+fO
+Te
+tw
+rX
+tw
+sA
+Tr
+RX
+CG
+Tr
+Tr
+RX
+CG
+pH
+pH
+pH
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(67,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+pH
+pH
+pH
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+rI
+kw
+WP
+WT
+Dl
+Vs
+GT
+By
+hA
+Np
+WP
+Np
+vp
+Tr
+RX
+CG
+Tr
+Tr
+RX
+CG
+pH
+pH
+pH
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(68,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+pH
+pH
+pH
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+rI
+kw
+WP
+WT
+Dl
+yp
+WP
+dk
+hA
+Np
+WP
+Np
+vp
+Tr
+RX
+CG
+Tr
+Tr
+RX
+CG
+pH
+pH
+pH
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(69,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+pH
+pH
+pH
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+rI
+kw
+WP
+WT
+Dl
+yp
+WP
+dk
+hA
+Np
+WP
+Np
+vp
+Tr
+RX
+CG
+Tr
+Tr
+RX
+CG
+pH
+pH
+pH
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(70,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+pH
+pH
+pH
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+rI
+kw
+WP
+WT
+Dl
+ZW
+tj
+pU
+hA
+Np
+WP
+Np
+vp
+Tr
+RX
+CG
+Tr
+Tr
+RX
+CG
+pH
+pH
+pH
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(71,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+GV
+WP
+WP
+WP
+qE
+ou
+ou
+ou
+vr
+WP
+WP
+WP
+RX
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(72,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+GV
+WP
+WP
+WP
+kV
+Um
+Tl
+Um
+PY
+WP
+WP
+WP
+RX
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(73,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+CG
+GV
+Tr
+rI
+kw
+WP
+mY
+kV
+Um
+vx
+Um
+PY
+mY
+WP
+Np
+vp
+Tr
+RX
+CG
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Rm
+js
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(74,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+rj
+Rm
+TI
+CG
+CG
+CG
+Tr
+Tr
+CG
+GV
+Tr
+rI
+kw
+WP
+mY
+kV
+Um
+AS
+Um
+PY
+mY
+WP
+Np
+vp
+Tr
+RX
+CG
+Tr
+Tr
+RX
+CG
+CG
+TI
+Rm
+rj
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(75,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+rI
+kw
+WP
+mY
+tL
+TV
+TV
+TV
+iM
+mY
+WP
+Np
+vp
+Tr
+RX
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(76,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+dZ
+hT
+Tx
+an
+an
+Tx
+Tx
+Tx
+an
+an
+Tx
+Mc
+hd
+Tr
+RX
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(77,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+CG
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(78,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+CG
+zh
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tr
+Tr
+Tr
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Wg
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(79,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+Tr
+Tr
+Tr
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(80,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+lC
+Tr
+Tr
+Tr
+jl
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(81,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(82,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+wr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+CG
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(83,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Co
+Co
+kt
+Xb
+Xb
+Xb
+Xb
+RX
+Tr
+Tr
+Tr
+GV
+Xb
+Xb
+Xb
+Xb
+Co
+Co
+kt
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(84,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Co
+Co
+Co
+Xb
+CG
+Xb
+Xb
+RX
+Tr
+Tr
+Tr
+GV
+Xb
+Xb
+CG
+Xb
+Co
+Co
+Co
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(85,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+TZ
+Tr
+Tr
+Co
+OL
+Ad
+gf
+Dx
+gf
+gf
+gf
+gf
+gf
+gf
+gf
+gf
+gf
+Dx
+gf
+Ad
+Zm
+Co
+Tr
+Tr
+RX
+CG
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(86,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Lf
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Lf
+Nw
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(87,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+xM
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+tE
+yI
+Uu
+ND
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(88,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+wy
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(89,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+Nw
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(90,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+CG
+Bw
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+Nw
+Xb
+Tr
+Tr
+RX
+iZ
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(91,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+Nw
+Xb
+Tr
+Tr
+RX
+hR
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(92,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+Uu
+ZK
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+uX
+Uu
+Nw
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(93,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+EQ
+Uu
+LP
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+oJ
+Ir
+Uu
+vY
+CG
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(94,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Xb
+sm
+TR
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+Uu
+TR
+Nw
+Xb
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(95,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+TZ
+Tr
+Tr
+Co
+bF
+Zi
+GG
+lu
+ub
+GG
+GG
+GG
+GG
+GG
+GG
+GG
+GG
+lu
+GG
+jI
+hM
+kt
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(96,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Co
+Co
+Co
+Xb
+CG
+Xb
+Xb
+RX
+Tr
+Tr
+Tr
+GV
+Xb
+Xb
+CG
+Xb
+Co
+Co
+Co
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(97,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Co
+Co
+Co
+Xb
+Xb
+Xb
+Xb
+RX
+Tr
+Tr
+Tr
+GV
+Xb
+Xb
+Xb
+Xb
+Co
+Co
+Co
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(98,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(99,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+GV
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+RX
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(100,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+zh
+Tr
+Tr
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Wg
+Tr
+Tr
+Tr
+zh
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Wg
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Cx
+bY
+HE
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(101,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+IA
+CG
+Xb
+Tr
+Tr
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Tr
+Tr
+Tr
+Xb
+Xb
+Kn
+Xb
+Xb
+Xb
+Xb
+Kn
+Xb
+Xb
+Xb
+Xb
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+aw
+MO
+HE
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(102,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+Ho
+CG
+CG
+CG
+rV
+rV
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+rV
+rV
+rV
+CG
+CG
+CG
+aG
+aG
+aG
+aG
+CG
+CG
+CG
+at
+CG
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Dn
+gW
+HE
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(103,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+eU
+Ol
+Tr
+Tr
+CG
+eU
+xE
+eU
+Ol
+eU
+xE
+CG
+AY
+Tr
+RX
+CG
+Ah
+Kj
+hA
+Xb
+Xb
+Xb
+IL
+fe
+CG
+QA
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Dn
+ug
+HE
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(104,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+NE
+Ol
+Tr
+Tr
+CG
+NE
+Ol
+NE
+Ol
+NE
+Ol
+CG
+AY
+Tr
+RX
+CG
+Pi
+dY
+Me
+Xb
+Xb
+Xb
+qL
+XT
+CG
+vA
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(105,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+dJ
+Ol
+Tr
+Tr
+CG
+dJ
+Ol
+dJ
+Ol
+dJ
+Ol
+CG
+AY
+Tr
+RX
+CG
+Ah
+bw
+hA
+Xb
+Hg
+Xb
+pi
+sy
+CG
+cV
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(106,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+eU
+Ol
+Tr
+Tr
+ZU
+El
+El
+El
+El
+El
+ro
+CG
+pd
+Tr
+fk
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+EA
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(107,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+FA
+CG
+NE
+Ol
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Ta
+Tr
+Tr
+Tr
+jv
+rX
+rX
+rX
+fj
+rX
+rX
+rX
+rX
+CG
+EA
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(108,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+dJ
+Ol
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Co
+Tr
+Tr
+Tr
+Co
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+fL
+CG
+WP
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(109,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+lB
+Uv
+Tr
+Tr
+zv
+yH
+yH
+yH
+yH
+yH
+yH
+CG
+Oz
+Tr
+cg
+CG
+Vp
+WP
+NV
+NV
+NV
+NV
+NV
+WP
+CG
+WP
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(110,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+gd
+Uv
+Tr
+Tr
+CG
+eU
+Ol
+eU
+Ol
+eU
+Ol
+CG
+AY
+Tr
+RX
+CG
+Ij
+WP
+QN
+nc
+QN
+aK
+id
+WP
+CG
+cv
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(111,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+kM
+Uv
+Tr
+Tr
+CG
+NE
+Ol
+NE
+Ol
+NE
+Ol
+CG
+AY
+Tr
+RX
+CG
+QN
+WP
+aK
+QN
+Ij
+aK
+aK
+WP
+CG
+Vn
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(112,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+tg
+Uv
+Tr
+Tr
+CG
+dJ
+Ol
+dJ
+Ol
+dJ
+Ol
+CG
+AY
+Tr
+RX
+CG
+Vp
+WP
+mY
+mY
+mY
+mY
+mY
+WP
+CG
+UU
+QA
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(113,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+eU
+Ol
+Tr
+Tr
+ZU
+El
+El
+El
+El
+El
+ro
+CG
+AY
+Tr
+RX
+CG
+sp
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+CG
+QA
+WP
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(114,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+NE
+Ol
+Tr
+Tr
+cL
+sL
+sL
+sL
+sL
+sL
+sL
+CG
+AY
+Tr
+RX
+CG
+Vp
+WP
+NV
+NV
+NV
+NV
+NV
+Ob
+CG
+QA
+WP
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(115,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+FA
+CG
+dJ
+Ol
+Tr
+Tr
+CG
+eU
+Ol
+eU
+Ol
+eU
+Ol
+CG
+AY
+Tr
+RX
+CG
+dX
+WP
+aK
+aK
+QN
+QN
+QN
+WP
+CG
+QA
+WP
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(116,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+FA
+CG
+eU
+Ol
+Tr
+Tr
+CG
+NE
+Ol
+NE
+Ol
+NE
+Ol
+CG
+AY
+Tr
+RX
+CG
+KP
+WP
+id
+aK
+Ij
+aK
+nc
+WP
+CG
+QA
+dr
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(117,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+NE
+Ol
+Tr
+Tr
+CG
+dJ
+Ol
+dJ
+Ol
+dJ
+Ol
+CG
+AY
+Tr
+RX
+CG
+Vp
+WP
+mY
+mY
+mY
+mY
+mY
+WP
+CG
+QA
+Gs
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(118,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+IA
+CG
+dJ
+Ol
+Tr
+Tr
+ZU
+El
+El
+El
+El
+El
+ro
+CG
+AY
+Tr
+RX
+CG
+sp
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+CG
+QA
+Lh
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(119,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+Rm
+TI
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+AY
+Tr
+RX
+CG
+jO
+WP
+NV
+NV
+NV
+NV
+NV
+Ob
+CG
+QA
+WP
+CG
+IA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(120,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+SC
+WP
+WP
+WP
+WP
+dS
+WP
+WP
+WP
+WP
+dS
+WP
+WP
+WP
+CG
+AY
+Tr
+RX
+CG
+aK
+WP
+aK
+nc
+aK
+QN
+aK
+WP
+CG
+QA
+WP
+CG
+TI
+Rm
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(121,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+KP
+WP
+QN
+aK
+Ij
+aK
+aK
+WP
+CG
+QA
+WP
+CG
+QA
+uY
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(122,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+IX
+CG
+IX
+CG
+IX
+CG
+IX
+CG
+IX
+CG
+BM
+vL
+CG
+Ob
+CG
+AY
+Tr
+RX
+CG
+Vp
+WP
+mY
+mY
+mY
+mY
+mY
+WP
+CG
+tZ
+QA
+CG
+QA
+mu
+Rm
+Zq
+Zq
+Zq
+Zq
+lQ
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(123,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+yE
+CG
+yE
+CG
+yE
+CG
+yE
+CG
+yE
+CG
+Jg
+Jg
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+sp
+WP
+WP
+Ez
+WP
+WP
+WP
+Cm
+CG
+KJ
+QA
+CG
+qc
+tQ
+Rm
+Rm
+Rm
+Rm
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(124,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+LV
+Zq
+Zq
+Zq
+Zq
+Zq
+Zq
+Rm
+tG
+Xb
+tG
+mv
+tG
+Xb
+tG
+mv
+tG
+Xb
+Xb
+Xb
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+WP
+QA
+gb
+QA
+Uw
+CG
+xC
+HD
+lw
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(125,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+me
+CG
+WP
+CG
+AY
+Tr
+RX
+iI
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+iI
+QA
+QA
+iI
+QA
+QA
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(126,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+oq
+IP
+oq
+Uv
+oq
+eR
+oq
+DB
+IZ
+dF
+oq
+IP
+oq
+eR
+oq
+DB
+IZ
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(127,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+CX
+WP
+CX
+vl
+CX
+WP
+CX
+Ka
+Tr
+gM
+CX
+WP
+CX
+Fy
+CX
+AY
+Tr
+gM
+CG
+Ob
+CG
+AY
+Tr
+RX
+CG
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(128,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+oq
+Uv
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(129,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+yh
+DO
+DO
+ur
+DO
+CK
+DO
+pd
+Tr
+mp
+DO
+ur
+DO
+CK
+DO
+pd
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+vw
+Xb
+WP
+cW
+WP
+Xb
+WP
+Xb
+WP
+Xb
+WP
+Xb
+WP
+cW
+WP
+Xb
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(130,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+sL
+sL
+sL
+sL
+sL
+sL
+sL
+Oz
+Tr
+cL
+sL
+sL
+sL
+sL
+sL
+Oz
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(131,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+oq
+Uv
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+mp
+CG
+TI
+CG
+pd
+Tr
+RX
+CG
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(132,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+CX
+VN
+CX
+Fy
+CX
+WP
+CX
+AY
+Tr
+gM
+CX
+WP
+CX
+Fy
+CX
+Of
+Tr
+Tr
+rO
+Tr
+Tr
+Tr
+Tr
+RX
+CG
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(133,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+uy
+Uv
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+Tr
+Co
+Tr
+Tr
+Tr
+Tr
+RX
+CG
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(134,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+yh
+DO
+DO
+DO
+DO
+DO
+DO
+pd
+Tr
+mp
+DO
+DO
+DO
+DO
+DO
+pd
+Tr
+cL
+CG
+TI
+CG
+Oz
+Tr
+fk
+CG
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(135,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+sL
+sL
+sL
+sL
+sL
+sL
+sL
+Oz
+Tr
+cL
+sL
+sL
+sL
+sL
+sL
+Oz
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+Tr
+KW
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+rX
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(136,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+oq
+Uv
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+Tr
+Co
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+Tx
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(137,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+CX
+WP
+CX
+Fy
+CX
+WP
+CX
+Of
+Tr
+gM
+CX
+WP
+CX
+Fy
+CX
+AY
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+cg
+CG
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(138,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+oq
+Uv
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(139,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+yh
+DO
+DO
+ur
+DO
+CK
+DO
+pd
+Tr
+mp
+DO
+ur
+DO
+CK
+DO
+pd
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(140,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+sL
+sL
+sL
+sL
+sL
+sL
+sL
+Oz
+Tr
+cL
+sL
+sL
+sL
+sL
+sL
+Oz
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(141,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+oq
+Uv
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+oq
+Uv
+oq
+Ah
+oq
+AY
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(142,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+CX
+WP
+CX
+Fy
+CX
+WP
+CX
+AY
+Tr
+gM
+CX
+WP
+CX
+Fy
+CX
+Ka
+Tr
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+Xb
+Xb
+Xb
+cW
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+cW
+Xb
+Xb
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(143,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+oq
+Uv
+oq
+Uv
+oq
+Ah
+oq
+DB
+ru
+gM
+oq
+Uv
+oq
+GQ
+oq
+DB
+ru
+gM
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+FE
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(144,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+WP
+CG
+AY
+Tr
+RX
+CG
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+VY
+Uv
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(145,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+iI
+AY
+Tr
+RX
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(146,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+AY
+Tr
+RX
+iI
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+QA
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(147,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+Rm
+Rm
+TI
+TI
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+lP
+CG
+ko
+rt
+Fj
+fb
+fb
+fb
+fb
+CG
+ik
+CG
+AY
+Tr
+mp
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+TI
+TI
+Rm
+Rm
+LH
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(148,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+IN
+Rm
+Co
+Co
+Rm
+IN
+IN
+IN
+IN
+IN
+Rm
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+CG
+AY
+Tr
+Tr
+ZQ
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Rm
+IN
+IN
+IN
+IN
+Rm
+Co
+Co
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(149,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+BK
+IN
+Rm
+Co
+Co
+Rm
+IN
+IN
+IN
+IN
+IN
+Rm
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+Wb
+CG
+AY
+Tr
+Tr
+Co
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Tr
+Rm
+IN
+IN
+IN
+IN
+Rm
+Co
+Co
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(150,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+Rm
+Rm
+TI
+TI
+Rm
+Rm
+Rm
+Rm
+Rm
+IN
+Rm
+Xb
+Xb
+CG
+CG
+CG
+CG
+CG
+CG
+Xb
+JO
+CG
+AY
+Tr
+cL
+CG
+Lj
+Xs
+Xs
+Xs
+Xs
+Ah
+CG
+Tr
+Tr
+Rm
+IN
+Rm
+Rm
+Rm
+Rm
+TI
+TI
+Rm
+Rm
+Rm
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(151,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+vD
+qw
+qw
+qw
+qw
+PH
+Xb
+mU
+Rm
+IN
+Rm
+Xb
+Xb
+CG
+Ht
+DO
+DO
+Bm
+rv
+Xb
+QC
+CG
+AY
+Tr
+gM
+CG
+yi
+CG
+CG
+CG
+CG
+vX
+CG
+Tr
+Tr
+Rm
+IN
+Rm
+Sd
+Xb
+vD
+qw
+qw
+qw
+qw
+PH
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(152,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+of
+Co
+WG
+WG
+Uc
+tK
+sB
+rA
+Rm
+Rm
+Rm
+Xb
+Xb
+CG
+Jp
+WP
+UX
+gM
+rv
+Xb
+BA
+CG
+pd
+Tr
+gM
+CG
+yK
+lL
+el
+iz
+uF
+Xb
+CG
+Tr
+Tr
+Rm
+IN
+Rm
+lA
+Xb
+of
+Co
+WG
+WG
+Uc
+tK
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(153,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+Yb
+fa
+PF
+PF
+jS
+tK
+al
+Xb
+Vm
+Co
+Vm
+Xb
+Xb
+CG
+Ua
+WP
+nr
+bE
+kW
+Xb
+Xb
+Vm
+Tr
+Tr
+gM
+CG
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+CG
+Tr
+Tr
+Rm
+IN
+Rm
+mU
+Xb
+of
+fa
+PF
+PF
+jS
+tK
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(154,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+of
+fa
+PF
+PF
+jS
+tK
+al
+Xb
+Co
+Co
+Co
+Xb
+Xb
+CG
+Ja
+sL
+sL
+ss
+Ra
+Xb
+Xb
+Co
+Tr
+Tr
+gM
+CG
+Xb
+Xb
+Xb
+cW
+Xb
+Xb
+CG
+Tr
+Tr
+Rm
+IN
+Rm
+mU
+Xb
+of
+fa
+PF
+PF
+jS
+tK
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(155,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+of
+Co
+Pv
+Pv
+Co
+tK
+To
+vn
+Rm
+Rm
+Rm
+Xb
+Xb
+CG
+CG
+CG
+CG
+CG
+CG
+WP
+ZB
+CG
+Oz
+Tr
+gM
+CG
+mc
+Xb
+aX
+by
+Xb
+CG
+CG
+Tr
+Tr
+Rm
+IN
+Rm
+mU
+Xb
+of
+Co
+Pv
+Pv
+Co
+tK
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(156,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+gq
+oz
+oz
+lX
+oz
+Wn
+Xb
+mU
+Rm
+IN
+Rm
+xn
+WP
+Xb
+Xb
+Xb
+Xb
+Xb
+Xb
+CV
+fY
+CG
+AY
+Tr
+gM
+CG
+lP
+Xb
+Xb
+pm
+Xb
+CG
+Tr
+Tr
+Tr
+Rm
+Rm
+Rm
+Po
+FY
+RD
+oz
+lX
+oz
+oz
+Wn
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(157,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+vD
+qw
+qw
+qw
+qw
+PH
+Xb
+mU
+Rm
+IN
+CG
+CG
+Tj
+CG
+CG
+CG
+CG
+CG
+TI
+CG
+CG
+CG
+AY
+Tr
+gM
+CG
+LW
+Xb
+Xb
+gG
+Xb
+CG
+Tr
+Tr
+Tr
+Vm
+Co
+Vm
+Xb
+nm
+vD
+qw
+qw
+qw
+qw
+PH
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(158,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+of
+Co
+WG
+WG
+Co
+tK
+Xb
+mU
+Rm
+IN
+Kf
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+WP
+zY
+CG
+AY
+Tr
+gM
+CG
+Ls
+Xb
+Xb
+GA
+Xb
+CG
+Tr
+Tr
+Tr
+Co
+Co
+Co
+Xb
+nm
+of
+Co
+WG
+WG
+Co
+tK
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(159,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+of
+fa
+PF
+PF
+jS
+tK
+Xb
+mU
+Rm
+IN
+bJ
+WP
+Ji
+CG
+dq
+dy
+iq
+CG
+DP
+NJ
+jM
+CG
+AY
+Tr
+gM
+CG
+Kw
+Xb
+Xb
+Xb
+Xb
+CG
+Tr
+Tr
+Tr
+Rm
+Rm
+Rm
+vn
+qr
+of
+fa
+PF
+PF
+jS
+tK
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(160,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+Yb
+fa
+PF
+PF
+jS
+tK
+Xb
+mU
+Rm
+IN
+Rm
+Rm
+Rm
+Rm
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+CG
+AY
+Tr
+gM
+CG
+CG
+CG
+CG
+vX
+CG
+Rm
+Rm
+Rm
+Rm
+Rm
+IN
+Rm
+mU
+Xb
+of
+fa
+PF
+PF
+jS
+tK
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(161,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+of
+Co
+Pv
+Pv
+Co
+tK
+aX
+mU
+Rm
+IN
+IN
+IN
+BK
+Rm
+au
+Um
+Fb
+Yd
+Oq
+Um
+OM
+CG
+AY
+Tr
+gM
+CG
+Op
+Ll
+rL
+tK
+QC
+Rm
+LH
+IN
+IN
+IN
+IN
+Rm
+mU
+Xb
+of
+Co
+Pv
+Pv
+Co
+tK
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(162,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+gq
+mn
+oz
+oz
+oz
+Wn
+xn
+mU
+Rm
+IN
+IN
+IN
+BK
+Rm
+Mx
+Um
+Fb
+Um
+Oq
+Um
+SA
+CG
+AY
+Tr
+gM
+CG
+dH
+dH
+dH
+Wn
+Wb
+Rm
+LH
+IN
+IN
+IN
+IN
+Rm
+eg
+Xb
+gq
+oz
+oz
+oz
+oz
+Wn
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(163,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+CG
+CG
+CG
+Co
+Fu
+CG
+CG
+CG
+Rm
+IN
+IN
+IN
+BK
+Rm
+FJ
+Um
+Fb
+Um
+Oq
+Um
+yt
+CG
+AY
+Tr
+gM
+CG
+gY
+bA
+CB
+tK
+eg
+Rm
+LH
+IN
+IN
+IN
+IN
+Rm
+CG
+CG
+CG
+Co
+Fu
+CG
+CG
+CG
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(164,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+GB
+my
+my
+my
+my
+my
+my
+uO
+Rm
+IN
+IN
+IN
+BK
+Rm
+Xu
+Um
+Fb
+Um
+Oq
+Um
+rm
+CG
+AY
+Tr
+gM
+CG
+dH
+dH
+dH
+gL
+eg
+Rm
+LH
+IN
+IN
+IN
+IN
+Rm
+GB
+my
+my
+my
+my
+my
+my
+Xa
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(165,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+Qu
+tb
+tb
+tb
+tb
+tb
+tb
+hm
+Rm
+IN
+IN
+IN
+BK
+Rm
+Um
+Um
+Um
+lI
+Um
+Um
+Um
+CG
+AY
+Tr
+gM
+CG
+Bq
+ZS
+PJ
+nO
+rp
+Rm
+LH
+IN
+IN
+IN
+IN
+Rm
+Qu
+tb
+tb
+tb
+tb
+tb
+tb
+hm
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(166,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+YI
+Mk
+Mk
+Mk
+Kc
+Mk
+Mk
+NZ
+Rm
+IN
+IN
+IN
+BK
+Rm
+yJ
+Um
+nj
+Um
+JY
+Um
+sk
+CG
+AY
+Tr
+gM
+CG
+SK
+oz
+oz
+jr
+Vj
+Rm
+LH
+IN
+IN
+IN
+IN
+Rm
+lH
+Mk
+Mk
+Mk
+Kc
+Mk
+Mk
+NZ
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(167,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+GB
+cz
+cz
+cz
+cz
+cz
+cz
+Xa
+Rm
+IN
+IN
+IN
+BK
+Rm
+Um
+Um
+Um
+Um
+Um
+Um
+Um
+iX
+AY
+Tr
+gM
+CG
+iu
+AX
+tF
+of
+KJ
+Rm
+LH
+IN
+IN
+IN
+IN
+Rm
+GB
+cz
+cz
+cz
+oN
+cz
+cz
+Xa
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(168,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+sx
+ks
+dv
+dv
+dv
+dv
+ks
+wD
+Rm
+IN
+IN
+IN
+BK
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+Rm
+LH
+IN
+IN
+IN
+IN
+Rm
+sx
+ks
+dv
+dv
+dv
+dv
+ks
+wD
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(169,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+PG
+lm
+lm
+lm
+lm
+lm
+lm
+Ny
+Rm
+IN
+IN
+IN
+cS
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+Vz
+qD
+IN
+IN
+IN
+IN
+Rm
+PG
+lm
+lm
+lm
+lm
+lm
+lm
+Ny
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(170,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+Rm
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+Rm
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+Rm
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(171,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+SL
+SL
+SL
+SL
+SL
+SL
+SL
+SL
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+SL
+SL
+SL
+SL
+SL
+SL
+SL
+SL
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(172,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(173,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(174,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(175,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(176,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(177,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(178,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(179,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(180,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(181,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(182,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(183,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(184,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(185,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(186,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(187,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(188,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(189,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(190,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(191,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(192,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(193,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(194,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(195,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(196,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(197,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(198,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(199,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
+(200,1,1) = {"
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+IN
+"}
