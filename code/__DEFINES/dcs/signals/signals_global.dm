@@ -78,6 +78,7 @@
 
 #define COMSIG_GLOB_HIJACK_IMPACTED "!hijack_impacted"
 #define COMSIG_GLOB_HIJACK_LANDED "!hijack_landed"
+#define COMSIG_GLOB_ANTIAIR_DESTROYED "!antiair_destroyed"
 
 /// From /datum/controller/subsystem/hijack/fire()
 #define COMSIG_GLOB_FUEL_PUMP_UPDATE "!fuel_pump_update"
