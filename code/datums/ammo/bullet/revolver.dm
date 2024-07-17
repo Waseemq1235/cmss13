@@ -8,6 +8,8 @@
 	name = "revolver bullet"
 	headshot_state = HEADSHOT_OVERLAY_MEDIUM
 	damage = 72
+	accurate_range = 7
+	max_range = 9
 	penetration = ARMOR_PENETRATION_TIER_1
 	accuracy = HIT_ACCURACY_TIER_1
 
@@ -16,7 +18,6 @@
 	damage = 55
 	shrapnel_chance = 0
 	damage_falloff = 0
-	accurate_range = 12
 	penetration = ARMOR_PENETRATION_TIER_7
 
 /datum/ammo/bullet/revolver/heavy

@@ -66,7 +66,7 @@
 	flags_ammo_behavior = AMMO_BALLISTIC
 
 	accuracy = -HIT_ACCURACY_TIER_2
-	max_range = 12
+	max_range = 9
 	damage = 55
 	penetration= ARMOR_PENETRATION_TIER_1
 	handful_state = "incendiary_slug"
@@ -96,7 +96,7 @@
 
 	accuracy_var_low = PROJECTILE_VARIANCE_TIER_6
 	accuracy_var_high = PROJECTILE_VARIANCE_TIER_6
-	max_range = 12
+	max_range = 9
 	damage = 30
 	damage_var_low = PROJECTILE_VARIANCE_TIER_8
 	damage_var_high = PROJECTILE_VARIANCE_TIER_8
@@ -111,7 +111,7 @@
 
 	accuracy_var_low = PROJECTILE_VARIANCE_TIER_6
 	accuracy_var_high = PROJECTILE_VARIANCE_TIER_6
-	max_range = 12
+	max_range = 9
 	damage = 30
 	damage_var_low = PROJECTILE_VARIANCE_TIER_8
 	damage_var_high = PROJECTILE_VARIANCE_TIER_8
@@ -292,7 +292,7 @@
 
 	accuracy_var_low = PROJECTILE_VARIANCE_TIER_3
 	accuracy_var_high = PROJECTILE_VARIANCE_TIER_3
-	max_range = 12
+	max_range = 9
 	damage = 45
 	damage_var_low = PROJECTILE_VARIANCE_TIER_8
 	damage_var_high = PROJECTILE_VARIANCE_TIER_8
@@ -304,7 +304,7 @@
 	icon_state = "flechette"
 	accuracy_var_low = PROJECTILE_VARIANCE_TIER_6
 	accuracy_var_high = PROJECTILE_VARIANCE_TIER_6
-	max_range = 12
+	max_range = 9
 	damage = 45
 	damage_var_low = PROJECTILE_VARIANCE_TIER_8
 	damage_var_high = PROJECTILE_VARIANCE_TIER_8

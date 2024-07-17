@@ -8,8 +8,8 @@
 	name = "smartgun bullet"
 	icon_state = "redbullet"
 	flags_ammo_behavior = AMMO_BALLISTIC
-
-	max_range = 12
+	accurate_range = 7
+	max_range = 9
 	accuracy = HIT_ACCURACY_TIER_4
 	damage = 30
 	penetration = 0
@@ -18,7 +18,6 @@
 	name = "armor-piercing smartgun bullet"
 	icon_state = "bullet"
 
-	accurate_range = 12
 	accuracy = HIT_ACCURACY_TIER_2
 	damage = 20
 	penetration = ARMOR_PENETRATION_TIER_8
@@ -29,7 +28,6 @@
 	debilitate = list(0,0,0,3,0,0,0,1)
 
 	shrapnel_chance = SHRAPNEL_CHANCE_TIER_7
-	accurate_range = 32
 	accuracy = HIT_ACCURACY_TIER_3
 	damage = 40
 	penetration = 0
@@ -37,7 +35,6 @@
 /datum/ammo/bullet/smartgun/dirty/armor_piercing
 	debilitate = list(0,0,0,3,0,0,0,1)
 
-	accurate_range = 22
 	accuracy = HIT_ACCURACY_TIER_3
 	damage = 30
 	penetration = ARMOR_PENETRATION_TIER_7
@@ -61,7 +58,6 @@
 	name = "armor-piercing smartgun bullet"
 	icon_state = "bullet"
 
-	accurate_range = 12
 	accuracy = HIT_ACCURACY_TIER_2
 	damage = 20
 	penetration = ARMOR_PENETRATION_TIER_8
@@ -100,8 +96,8 @@
 /datum/ammo/bullet/machinegun //Adding this for the MG Nests (~Art)
 	name = "machinegun bullet"
 	icon_state = "bullet" // Keeping it bog standard with the turret but allows it to be changed
-
-	accurate_range = 12
+	accurate_range = 7
+	max_range = 9
 	damage = 35
 	penetration= ARMOR_PENETRATION_TIER_10 //Bumped the penetration to serve a different role from sentries, MGs are a bit more offensive
 	accuracy = HIT_ACCURACY_TIER_3
@@ -117,13 +113,12 @@
 
 /datum/ammo/bullet/machinegun/auto // for M2C, automatic variant for M56D, stats for bullet should always be moderately overtuned to fulfill its ultra-offense + flank-push purpose
 	name = "heavy machinegun bullet"
-
-	accurate_range = 10
+	accurate_range = 7
+	max_range = 8
 	damage =  50
 	penetration = ARMOR_PENETRATION_TIER_6
 	accuracy = -HIT_ACCURACY_TIER_2 // 75 accuracy
 	shell_speed = AMMO_SPEED_TIER_2
-	max_range = 15
 	effective_range_max = 7
 	damage_falloff = DAMAGE_FALLOFF_TIER_8
 
@@ -140,7 +135,8 @@
 	accuracy = -HIT_ACCURACY_TIER_3
 	accuracy_var_low = PROJECTILE_VARIANCE_TIER_6
 	accuracy_var_high = PROJECTILE_VARIANCE_TIER_6
-	accurate_range = 12
+	accurate_range = 7
+	max_range = 9
 	damage = 35
 	penetration = ARMOR_PENETRATION_TIER_6
 
@@ -168,7 +164,8 @@
 	accuracy = HIT_ACCURACY_TIER_2
 	accuracy_var_low = PROJECTILE_VARIANCE_TIER_8
 	accuracy_var_high = PROJECTILE_VARIANCE_TIER_6
-	accurate_range = 12
+	accurate_range = 7
+	max_range = 9
 	damage = 45 //7.62x51 is scary
 	penetration= ARMOR_PENETRATION_TIER_6
 	shrapnel_chance = SHRAPNEL_CHANCE_TIER_2
@@ -180,7 +177,8 @@
 	accuracy = HIT_ACCURACY_TIER_1
 	accuracy_var_low = PROJECTILE_VARIANCE_TIER_8
 	accuracy_var_high = PROJECTILE_VARIANCE_TIER_6
-	accurate_range = 14
+	accurate_range = 7
+	max_range = 9
 	damage = 35
 	penetration= ARMOR_PENETRATION_TIER_6
 	shrapnel_chance = SHRAPNEL_CHANCE_TIER_2

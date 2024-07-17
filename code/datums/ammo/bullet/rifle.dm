@@ -10,13 +10,13 @@
 
 	damage = 40
 	penetration = ARMOR_PENETRATION_TIER_1
-	accurate_range = 16
+	accurate_range = 7
+	max_range = 9
 	accuracy = HIT_ACCURACY_TIER_4
 	scatter = SCATTER_AMOUNT_TIER_10
 	shell_speed = AMMO_SPEED_TIER_6
 	effective_range_max = 7
 	damage_falloff = DAMAGE_FALLOFF_TIER_7
-	max_range = 24 //So S8 users don't have their bullets magically disappaer at 22 tiles (S8 can see 24 tiles)
 
 /datum/ammo/bullet/rifle/holo_target
 	name = "holo-targeting rifle bullet"
@@ -41,7 +41,6 @@
 	name = "explosive rifle bullet"
 
 	damage = 25
-	accurate_range = 22
 	accuracy = 0
 	shell_speed = AMMO_SPEED_TIER_4
 	damage_falloff = DAMAGE_FALLOFF_TIER_9

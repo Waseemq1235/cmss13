@@ -11,7 +11,8 @@
 	penetration = 0
 	accuracy = HIT_ACCURACY_TIER_1
 	shell_speed = AMMO_SPEED_TIER_6
-	accurate_range = 14
+	accurate_range = 7
+	max_range = 9
 	handful_state = "lever_action_bullet"
 
 //unused and not working. need to refactor MD code. Unobtainable.
@@ -43,7 +44,6 @@
 	name = "marksman lever-action bullet"
 	shrapnel_chance = 0
 	damage_falloff = 0
-	accurate_range = 12
 	damage = 70
 	penetration = ARMOR_PENETRATION_TIER_6
 	shell_speed = AMMO_SPEED_TIER_6
@@ -56,7 +56,6 @@
 	penetration = ARMOR_PENETRATION_TIER_2
 	accuracy = HIT_ACCURACY_TIER_1
 	shell_speed = AMMO_SPEED_TIER_6
-	accurate_range = 14
 	handful_state = "boomslang_bullet"
 
 /datum/ammo/bullet/lever_action/xm88/pen20

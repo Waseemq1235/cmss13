@@ -15,6 +15,7 @@
 	name = "submachinegun bullet"
 	damage = 34
 	accurate_range = 4
+	max_range = 9
 	effective_range_max = 4
 	penetration = ARMOR_PENETRATION_TIER_1
 	shell_speed = AMMO_SPEED_TIER_6

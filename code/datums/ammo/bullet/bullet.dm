@@ -20,6 +20,8 @@
 	shrapnel_chance = SHRAPNEL_CHANCE_TIER_1
 	shrapnel_type = /obj/item/shard/shrapnel
 	shell_speed = AMMO_SPEED_TIER_4
+	accurate_range = 7
+	max_range = 9
 
 /datum/ammo/bullet/proc/handle_battlefield_execution(datum/ammo/firing_ammo, mob/living/hit_mob, obj/projectile/firing_projectile, mob/living/user, obj/item/weapon/gun/fired_from)
 	SIGNAL_HANDLER
